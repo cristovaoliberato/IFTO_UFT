@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 5e8d5ecd8869b894d9ea34b921559986
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3722236639411853113
+    second: modern 6_0
+  - first:
+      213: 4114403891415938725
+    second: modern 6_1
+  - first:
+      213: -8441800969935913034
+    second: modern 6_2
+  - first:
+      213: -5412497562213340327
+    second: modern 6_3
+  - first:
+      213: -9052604352337516751
+    second: modern 6_4
+  - first:
+      213: 1355973377401685606
+    second: modern 6_5
+  - first:
+      213: -2151149548691724411
+    second: modern 6_6
+  - first:
+      213: -8662348983668117955
+    second: modern 6_7
+  - first:
+      213: 2003943324854216048
+    second: modern 6_8
+  - first:
+      213: 6041889115854336423
+    second: modern 6_9
+  - first:
+      213: 3937291196128194066
+    second: modern 6_10
+  - first:
+      213: -2499070984945659788
+    second: modern 6_11
+  - first:
+      213: 6050837059993242879
+    second: modern 6_12
+  - first:
+      213: -7946517645001110152
+    second: modern 6_13
+  - first:
+      213: -8055651767303359464
+    second: modern 6_14
+  - first:
+      213: -4283341805680355736
+    second: modern 6_15
+  - first:
+      213: 8478436625199431079
+    second: modern 6_16
+  - first:
+      213: 3500168441197053338
+    second: modern 6_17
+  - first:
+      213: -97891932105067983
+    second: modern 6_18
+  - first:
+      213: 8533146705385034656
+    second: modern 6_19
+  - first:
+      213: 4540940048981908720
+    second: modern 6_20
+  - first:
+      213: 4359280086627828700
+    second: modern 6_21
+  - first:
+      213: 6898529254063207597
+    second: modern 6_22
+  - first:
+      213: 6689607216858595187
+    second: modern 6_23
+  - first:
+      213: 2320232215901056598
+    second: modern 6_24
+  - first:
+      213: -1935231820181809067
+    second: modern 6_25
+  - first:
+      213: -7560079904387271797
+    second: modern 6_26
+  - first:
+      213: 8445503542912044219
+    second: modern 6_27
+  - first:
+      213: 703698233982702586
+    second: modern 6_28
+  - first:
+      213: -1394630243458386066
+    second: modern 6_29
+  - first:
+      213: 3768981638503728148
+    second: modern 6_30
+  - first:
+      213: -4500229899118286617
+    second: modern 6_31
+  - first:
+      213: 2402721044814612640
+    second: modern 6_32
+  - first:
+      213: 8611149493533539320
+    second: modern 6_33
+  - first:
+      213: 1331952336888281715
+    second: modern 6_34
+  - first:
+      213: 8574980781924086940
+    second: modern 6_35
+  - first:
+      213: 1006661248970362255
+    second: modern 6_36
+  - first:
+      213: 1198813197269872401
+    second: modern 6_37
+  - first:
+      213: -9206604883913174362
+    second: modern 6_38
+  - first:
+      213: 5923139861961059391
+    second: modern 6_39
+  - first:
+      213: -5281589697327224127
+    second: modern 6_40
+  - first:
+      213: -7257575253212236552
+    second: modern 6_41
+  - first:
+      213: 4698596394776749151
+    second: modern 6_42
+  - first:
+      213: 3271166225906471895
+    second: modern 6_43
+  - first:
+      213: -3351668381273968322
+    second: modern 6_44
+  - first:
+      213: 3334687256287667789
+    second: modern 6_45
+  - first:
+      213: 2005755941428555320
+    second: modern 6_46
+  - first:
+      213: 3882273694935325907
+    second: modern 6_47
+  - first:
+      213: -6023789015779945718
+    second: modern 6_48
+  - first:
+      213: -5843809455984979859
+    second: modern 6_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: modern 6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 384
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375616908a08a330800000000000000
+      internalID: 3722236639411853113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 732
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f45a4a8c491930800000000000000
+      internalID: 4114403891415938725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 722
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bffb629eb2b8da80800000000000000
+      internalID: -8441800969935913034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 731
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2b90d422f2e4b0800000000000000
+      internalID: -5412497562213340327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 732
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13764c6ed40be5280800000000000000
+      internalID: -9052604352337516751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660aec3a9261d210800000000000000
+      internalID: 1355973377401685606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 576
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ec7bf1e49522e0800000000000000
+      internalID: -2151149548691724411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eeef39e7729c780800000000000000
+      internalID: -8662348983668117955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07563fb26df6fcb10800000000000000
+      internalID: 2003943324854216048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 504
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1fbcab32a19d350800000000000000
+      internalID: 6041889115854336423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 459
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6e727b7114a630800000000000000
+      internalID: 3937291196128194066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 459
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47014d90e24815dd0800000000000000
+      internalID: -2499070984945659788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 408
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8aa25f34e8f350800000000000000
+      internalID: 6050837059993242879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 454
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dc558ed4c48b190800000000000000
+      internalID: -7946517645001110152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 457
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814b2a7f563943090800000000000000
+      internalID: -8055651767303359464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 432
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86697d462538e84c0800000000000000
+      internalID: -4283341805680355736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 403
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad7caf903579a570800000000000000
+      internalID: 8478436625199431079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 392
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95459f07a8139030800000000000000
+      internalID: 3500168441197053338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13230807ec734aef0800000000000000
+      internalID: -97891932105067983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 367
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a315cec7b3db6670800000000000000
+      internalID: 8533146705385034656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 366
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc59e56ae8a40f30800000000000000
+      internalID: 4540940048981908720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 392
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c2ef64264f7c30800000000000000
+      internalID: 4359280086627828700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f31d7ecf7cbf50800000000000000
+      internalID: 6898529254063207597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 313
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ffeb7125246dc50800000000000000
+      internalID: 6689607216858595187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 312
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e233148ee133020800000000000000
+      internalID: 2320232215901056598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 312
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d700b9eca425e0800000000000000
+      internalID: -1935231820181809067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837d69c163351790800000000000000
+      internalID: -7560079904387271797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 306
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc4390e9b4743570800000000000000
+      internalID: 8445503542912044219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3db91c0d904c900800000000000000
+      internalID: 703698233982702586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 261
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6775a1ce2745ace0800000000000000
+      internalID: -1394630243458386066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140cffc4dc1e4430800000000000000
+      internalID: 3768981638503728148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 264
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8667fffb8fb81c0800000000000000
+      internalID: -4500229899118286617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 192
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c7826f0e285120800000000000000
+      internalID: 2402721044814612640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 168
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbf9dd27d2f08770800000000000000
+      internalID: 8611149493533539320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3af9e79b0c7210800000000000000
+      internalID: 1331952336888281715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 153
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f266c693700770800000000000000
+      internalID: 8574980781924086940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 155
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d870a821168fd00800000000000000
+      internalID: 1006661248970362255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 107
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2257504a03a010800000000000000
+      internalID: 1198813197269872401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 107
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a29af203a19b3080800000000000000
+      internalID: -9206604883913174362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 21
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c25238258333250800000000000000
+      internalID: 5923139861961059391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 24
+        width: 21
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa271472604b6b0800000000000000
+      internalID: -5281589697327224127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47e9d62c9e74b90800000000000000
+      internalID: -7257575253212236552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54699dd684c43140800000000000000
+      internalID: 4698596394776749151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d31960e954856d20800000000000000
+      internalID: 3271166225906471895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 49
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b1497d5b7c71d0800000000000000
+      internalID: -3351668381273968322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 53
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466c044460374e20800000000000000
+      internalID: 3334687256287667789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e6afad660e5db10800000000000000
+      internalID: 2005755941428555320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc967b3b5b90e530800000000000000
+      internalID: 3882273694935325907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 11
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0359883ec3376ca0800000000000000
+      internalID: -6023789015779945718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: modern 6_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6052f8f24e96eea0800000000000000
+      internalID: -5843809455984979859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

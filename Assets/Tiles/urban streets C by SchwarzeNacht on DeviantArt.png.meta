@@ -1,0 +1,2578 @@
+fileFormatVersion: 2
+guid: 1f27eef80bcb5294e9b539c35f6aa1c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1713586405417114992
+    second: urban streets C by SchwarzeNacht on DeviantArt_0
+  - first:
+      213: 6292423606075798619
+    second: urban streets C by SchwarzeNacht on DeviantArt_1
+  - first:
+      213: -7015954357193526042
+    second: urban streets C by SchwarzeNacht on DeviantArt_2
+  - first:
+      213: -7163333657386068730
+    second: urban streets C by SchwarzeNacht on DeviantArt_3
+  - first:
+      213: 1146071385932857126
+    second: urban streets C by SchwarzeNacht on DeviantArt_4
+  - first:
+      213: -6320275806842329957
+    second: urban streets C by SchwarzeNacht on DeviantArt_5
+  - first:
+      213: -6276353227908006916
+    second: urban streets C by SchwarzeNacht on DeviantArt_6
+  - first:
+      213: -8415001416283933241
+    second: urban streets C by SchwarzeNacht on DeviantArt_7
+  - first:
+      213: 766853471175822948
+    second: urban streets C by SchwarzeNacht on DeviantArt_8
+  - first:
+      213: -5383403349388357159
+    second: urban streets C by SchwarzeNacht on DeviantArt_9
+  - first:
+      213: 3324826580220474236
+    second: urban streets C by SchwarzeNacht on DeviantArt_10
+  - first:
+      213: 1856409743634066504
+    second: urban streets C by SchwarzeNacht on DeviantArt_11
+  - first:
+      213: -3228869024536453491
+    second: urban streets C by SchwarzeNacht on DeviantArt_12
+  - first:
+      213: 238883864161443904
+    second: urban streets C by SchwarzeNacht on DeviantArt_13
+  - first:
+      213: -8363752625568819881
+    second: urban streets C by SchwarzeNacht on DeviantArt_14
+  - first:
+      213: -7719720477811127135
+    second: urban streets C by SchwarzeNacht on DeviantArt_15
+  - first:
+      213: 8185601389225021261
+    second: urban streets C by SchwarzeNacht on DeviantArt_16
+  - first:
+      213: -16940674242946620
+    second: urban streets C by SchwarzeNacht on DeviantArt_17
+  - first:
+      213: -4854437414652293879
+    second: urban streets C by SchwarzeNacht on DeviantArt_18
+  - first:
+      213: -3123198167863745045
+    second: urban streets C by SchwarzeNacht on DeviantArt_19
+  - first:
+      213: 2893442534396068066
+    second: urban streets C by SchwarzeNacht on DeviantArt_20
+  - first:
+      213: 7388339526899038390
+    second: urban streets C by SchwarzeNacht on DeviantArt_21
+  - first:
+      213: -1939770991527793910
+    second: urban streets C by SchwarzeNacht on DeviantArt_22
+  - first:
+      213: 2780006083281226179
+    second: urban streets C by SchwarzeNacht on DeviantArt_23
+  - first:
+      213: 6683382254517111815
+    second: urban streets C by SchwarzeNacht on DeviantArt_24
+  - first:
+      213: -7773844964880126511
+    second: urban streets C by SchwarzeNacht on DeviantArt_25
+  - first:
+      213: 5613433191798188638
+    second: urban streets C by SchwarzeNacht on DeviantArt_26
+  - first:
+      213: -1987942552702797659
+    second: urban streets C by SchwarzeNacht on DeviantArt_27
+  - first:
+      213: -7353155069534088855
+    second: urban streets C by SchwarzeNacht on DeviantArt_28
+  - first:
+      213: -7728580244722072834
+    second: urban streets C by SchwarzeNacht on DeviantArt_29
+  - first:
+      213: -797102379299191530
+    second: urban streets C by SchwarzeNacht on DeviantArt_30
+  - first:
+      213: -7982174194400356599
+    second: urban streets C by SchwarzeNacht on DeviantArt_31
+  - first:
+      213: 5069933095276866191
+    second: urban streets C by SchwarzeNacht on DeviantArt_32
+  - first:
+      213: 5797182892639093177
+    second: urban streets C by SchwarzeNacht on DeviantArt_33
+  - first:
+      213: 3623415266355606029
+    second: urban streets C by SchwarzeNacht on DeviantArt_34
+  - first:
+      213: -1065715057595667389
+    second: urban streets C by SchwarzeNacht on DeviantArt_35
+  - first:
+      213: -5421067677266869049
+    second: urban streets C by SchwarzeNacht on DeviantArt_36
+  - first:
+      213: 7126471724894491671
+    second: urban streets C by SchwarzeNacht on DeviantArt_37
+  - first:
+      213: 4110466369449539360
+    second: urban streets C by SchwarzeNacht on DeviantArt_38
+  - first:
+      213: 532234876961184055
+    second: urban streets C by SchwarzeNacht on DeviantArt_39
+  - first:
+      213: -1469634466818299692
+    second: urban streets C by SchwarzeNacht on DeviantArt_40
+  - first:
+      213: -76043934758094894
+    second: urban streets C by SchwarzeNacht on DeviantArt_41
+  - first:
+      213: -916668820001319537
+    second: urban streets C by SchwarzeNacht on DeviantArt_42
+  - first:
+      213: -3557736777272840446
+    second: urban streets C by SchwarzeNacht on DeviantArt_43
+  - first:
+      213: -799910142897093114
+    second: urban streets C by SchwarzeNacht on DeviantArt_44
+  - first:
+      213: 8392856929099676268
+    second: urban streets C by SchwarzeNacht on DeviantArt_45
+  - first:
+      213: -1336804358853625279
+    second: urban streets C by SchwarzeNacht on DeviantArt_46
+  - first:
+      213: -6016873957023812078
+    second: urban streets C by SchwarzeNacht on DeviantArt_47
+  - first:
+      213: 484046734704842956
+    second: urban streets C by SchwarzeNacht on DeviantArt_48
+  - first:
+      213: 1840844306962888317
+    second: urban streets C by SchwarzeNacht on DeviantArt_49
+  - first:
+      213: 5272154476267479722
+    second: urban streets C by SchwarzeNacht on DeviantArt_50
+  - first:
+      213: -121923461629694856
+    second: urban streets C by SchwarzeNacht on DeviantArt_51
+  - first:
+      213: 3225512193809301255
+    second: urban streets C by SchwarzeNacht on DeviantArt_52
+  - first:
+      213: -6732371901527310624
+    second: urban streets C by SchwarzeNacht on DeviantArt_53
+  - first:
+      213: -4910751295523126723
+    second: urban streets C by SchwarzeNacht on DeviantArt_54
+  - first:
+      213: -703111612100881077
+    second: urban streets C by SchwarzeNacht on DeviantArt_55
+  - first:
+      213: -4735060498814076891
+    second: urban streets C by SchwarzeNacht on DeviantArt_56
+  - first:
+      213: 6171741248828046077
+    second: urban streets C by SchwarzeNacht on DeviantArt_57
+  - first:
+      213: -1311486394504153348
+    second: urban streets C by SchwarzeNacht on DeviantArt_58
+  - first:
+      213: 8878212912718025730
+    second: urban streets C by SchwarzeNacht on DeviantArt_59
+  - first:
+      213: 1597854633582725382
+    second: urban streets C by SchwarzeNacht on DeviantArt_60
+  - first:
+      213: -6356320531981083055
+    second: urban streets C by SchwarzeNacht on DeviantArt_61
+  - first:
+      213: -1134279687622791218
+    second: urban streets C by SchwarzeNacht on DeviantArt_62
+  - first:
+      213: -7709485830173331540
+    second: urban streets C by SchwarzeNacht on DeviantArt_63
+  - first:
+      213: -5295390798818855441
+    second: urban streets C by SchwarzeNacht on DeviantArt_64
+  - first:
+      213: 7451770678211122226
+    second: urban streets C by SchwarzeNacht on DeviantArt_65
+  - first:
+      213: -4110623261310773931
+    second: urban streets C by SchwarzeNacht on DeviantArt_66
+  - first:
+      213: -1842687212276226482
+    second: urban streets C by SchwarzeNacht on DeviantArt_67
+  - first:
+      213: 5562010046538993618
+    second: urban streets C by SchwarzeNacht on DeviantArt_68
+  - first:
+      213: 1036590168283097852
+    second: urban streets C by SchwarzeNacht on DeviantArt_69
+  - first:
+      213: -4379348180721860943
+    second: urban streets C by SchwarzeNacht on DeviantArt_70
+  - first:
+      213: -7925448748993134935
+    second: urban streets C by SchwarzeNacht on DeviantArt_71
+  - first:
+      213: 7472973527974447195
+    second: urban streets C by SchwarzeNacht on DeviantArt_72
+  - first:
+      213: -2002789449424525542
+    second: urban streets C by SchwarzeNacht on DeviantArt_73
+  - first:
+      213: -3167920132340603737
+    second: urban streets C by SchwarzeNacht on DeviantArt_74
+  - first:
+      213: -5440284557718088523
+    second: urban streets C by SchwarzeNacht on DeviantArt_75
+  - first:
+      213: -5951836397333861869
+    second: urban streets C by SchwarzeNacht on DeviantArt_76
+  - first:
+      213: -303944155634929555
+    second: urban streets C by SchwarzeNacht on DeviantArt_77
+  - first:
+      213: -2362519569747562774
+    second: urban streets C by SchwarzeNacht on DeviantArt_78
+  - first:
+      213: 7796370193496922231
+    second: urban streets C by SchwarzeNacht on DeviantArt_79
+  - first:
+      213: 6051376954447026707
+    second: urban streets C by SchwarzeNacht on DeviantArt_80
+  - first:
+      213: 3073653122158159704
+    second: urban streets C by SchwarzeNacht on DeviantArt_81
+  - first:
+      213: -4024837412799834893
+    second: urban streets C by SchwarzeNacht on DeviantArt_82
+  - first:
+      213: -3983281344794629124
+    second: urban streets C by SchwarzeNacht on DeviantArt_83
+  - first:
+      213: -3170369792539620879
+    second: urban streets C by SchwarzeNacht on DeviantArt_84
+  - first:
+      213: -2129258411458303518
+    second: urban streets C by SchwarzeNacht on DeviantArt_85
+  - first:
+      213: -2457802738607765680
+    second: urban streets C by SchwarzeNacht on DeviantArt_86
+  - first:
+      213: 6491563299811101230
+    second: urban streets C by SchwarzeNacht on DeviantArt_87
+  - first:
+      213: -5809082458649155493
+    second: urban streets C by SchwarzeNacht on DeviantArt_88
+  - first:
+      213: -8000140446564226437
+    second: urban streets C by SchwarzeNacht on DeviantArt_89
+  - first:
+      213: -4973910261009134015
+    second: urban streets C by SchwarzeNacht on DeviantArt_90
+  - first:
+      213: -4324536036534140962
+    second: urban streets C by SchwarzeNacht on DeviantArt_91
+  - first:
+      213: 1176362790610650935
+    second: urban streets C by SchwarzeNacht on DeviantArt_92
+  - first:
+      213: 5271272965773590392
+    second: urban streets C by SchwarzeNacht on DeviantArt_93
+  - first:
+      213: -894681872024949113
+    second: urban streets C by SchwarzeNacht on DeviantArt_94
+  - first:
+      213: -1000448668647020692
+    second: urban streets C by SchwarzeNacht on DeviantArt_95
+  - first:
+      213: 5762301938332529870
+    second: urban streets C by SchwarzeNacht on DeviantArt_96
+  - first:
+      213: 7584126715288043191
+    second: urban streets C by SchwarzeNacht on DeviantArt_97
+  - first:
+      213: -558023102161789564
+    second: urban streets C by SchwarzeNacht on DeviantArt_98
+  - first:
+      213: -6417418829287810705
+    second: urban streets C by SchwarzeNacht on DeviantArt_99
+  - first:
+      213: 3275455946985986439
+    second: urban streets C by SchwarzeNacht on DeviantArt_100
+  - first:
+      213: -7411668297070894768
+    second: urban streets C by SchwarzeNacht on DeviantArt_101
+  - first:
+      213: 4049489315761575774
+    second: urban streets C by SchwarzeNacht on DeviantArt_102
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 488
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ac254e3e1838e0800000000000000
+      internalID: -1713586405417114992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543e685eed235750800000000000000
+      internalID: 6292423606075798619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 419
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4302b2fa252ae90800000000000000
+      internalID: -7015954357193526042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 419
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60557e7ddf9b69c90800000000000000
+      internalID: -7163333657386068730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 455
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f74c57ad9a7ef00800000000000000
+      internalID: 1146071385932857126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 455
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94eaa2d3aed948a0800000000000000
+      internalID: -6320275806842329957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 484
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbbaa52ef9e5e8a0800000000000000
+      internalID: -6276353227908006916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5bcf5ebc8e73b80800000000000000
+      internalID: -8415001416283933241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 481
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec5384b2964aa00800000000000000
+      internalID: 766853471175822948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 481
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11f0d1d2f4a45b0800000000000000
+      internalID: -5383403349388357159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 423
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7371d5b828242e20800000000000000
+      internalID: 3324826580220474236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 423
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce1ee73da43c910800000000000000
+      internalID: 1856409743634066504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 423
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e1e3ebab0c033d0800000000000000
+      internalID: -3228869024536453491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 419
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406ae9db9fa05300800000000000000
+      internalID: 238883864161443904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 419
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755dab3dc4bfdeb80800000000000000
+      internalID: -8363752625568819881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 416
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac42c2502b0ed490800000000000000
+      internalID: -7719720477811127135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 416
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f83b52819199170800000000000000
+      internalID: 8185601389225021261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 452
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c95e79eb80d3cff0800000000000000
+      internalID: -16940674242946620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 452
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc84b24e291acb0800000000000000
+      internalID: -4854437414652293879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 423
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a45150db28a4d0800000000000000
+      internalID: -3123198167863745045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 354
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00fa8a7a2972820800000000000000
+      internalID: 2893442534396068066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87bc497a7a88660800000000000000
+      internalID: 7388339526899038390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 354
+        width: 17
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be0608f8c8415e0800000000000000
+      internalID: -1939770991527793910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 384
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9076bbdc0949620800000000000000
+      internalID: 2780006083281226179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c44aa10c420cc50800000000000000
+      internalID: 6683382254517111815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 354
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6c592131cd1490800000000000000
+      internalID: -7773844964880126511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aa4872fbbe6ed40800000000000000
+      internalID: 5613433191798188638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83448e7c86964e0800000000000000
+      internalID: -1987942552702797659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 395
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961de064c6854f990800000000000000
+      internalID: -7353155069534088855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef24d3717319eb490800000000000000
+      internalID: -7728580244722072834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 327
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c048fb9f10f4f0800000000000000
+      internalID: -797102379299191530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_31
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 327
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9071a7f8cde993190800000000000000
+      internalID: -7982174194400356599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 327
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a69fad9450c5640800000000000000
+      internalID: 5069933095276866191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 327
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b189b5402bb37050800000000000000
+      internalID: 5797182892639093177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 327
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027ad0bcf4f84230800000000000000
+      internalID: 3623415266355606029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 354
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ca9303dc1d531f0800000000000000
+      internalID: -1065715057595667389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 327
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c408296baf74c4b0800000000000000
+      internalID: -5421067677266869049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 324
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7149330b64056e260800000000000000
+      internalID: 7126471724894491671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 324
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ba34826f4b0930800000000000000
+      internalID: 4110466369449539360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 199
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739585afcc0e26700800000000000000
+      internalID: 532234876961184055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8ef972d3fca9be0800000000000000
+      internalID: -1469634466818299692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 263
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bb69b176d1fef0800000000000000
+      internalID: -76043934758094894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 263
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85152f90965743f0800000000000000
+      internalID: -916668820001319537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f2f42304160aec0800000000000000
+      internalID: -3557736777272840446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 194
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606036096f526e4f0800000000000000
+      internalID: -799910142897093114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 227
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a79a5e8ea697470800000000000000
+      internalID: 8392856929099676268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af550b487b27de0800000000000000
+      internalID: -1336804358853625279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 199
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216fb4dc305cf7ca0800000000000000
+      internalID: -6016873957023812078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc815ccc0fda7b600800000000000000
+      internalID: 484046734704842956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 196
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76b25bd42efb8910800000000000000
+      internalID: 1840844306962888317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 196
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a8e620947a2940800000000000000
+      internalID: 5272154476267479722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ca6c3f147de4ef0800000000000000
+      internalID: -121923461629694856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_52
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb1b2304253cc20800000000000000
+      internalID: 3225512193809301255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb4a9dc6fc192a0800000000000000
+      internalID: -6732371901527310624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 196
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d320e0a07b189dbb0800000000000000
+      internalID: -4910751295523126723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45564bc6bb0e36f0800000000000000
+      internalID: -703111612100881077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f332509fa94eb0800000000000000
+      internalID: -4735060498814076891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa750e67fd66a550800000000000000
+      internalID: 6171741248828046077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 132
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf672df921aaccde0800000000000000
+      internalID: -1311486394504153348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20418d6fa9fb53b70800000000000000
+      internalID: 8878212912718025730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609096dc258bc2610800000000000000
+      internalID: 1597854633582725382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15edeb44720d9c7a0800000000000000
+      internalID: -6356320531981083055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6d4f32aa3240f0800000000000000
+      internalID: -1134279687622791218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6c9beb77620590800000000000000
+      internalID: -7709485830173331540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_64
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 161
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b789ef1ef286b0800000000000000
+      internalID: -5295390798818855441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234127e53f10a6760800000000000000
+      internalID: 7451770678211122226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5551d104ce124f6c0800000000000000
+      internalID: -4110623261310773931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46ee105eb57d66e0800000000000000
+      internalID: -1842687212276226482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4c152baa303d40800000000000000
+      internalID: 5562010046538993618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_69
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 128
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa2d261445b26e00800000000000000
+      internalID: 1036590168283097852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef15c480e6933c0800000000000000
+      internalID: -4379348180721860943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_71
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 129
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae33b68a56230290800000000000000
+      internalID: -7925448748993134935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5880d684d555b760800000000000000
+      internalID: 7472973527974447195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17a6236b99a434e0800000000000000
+      internalID: -2002789449424525542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 96
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a70b8c694904d0800000000000000
+      internalID: -3167920132340603737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49b24c40a3084b0800000000000000
+      internalID: -5440284557718088523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aacafa454d66da0800000000000000
+      internalID: -5951836397333861869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f2db966c28cbf0800000000000000
+      internalID: -303944155634929555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeea94ee7f4a63fd0800000000000000
+      internalID: -2362519569747562774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_79
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778d3d05265423c60800000000000000
+      internalID: 7796370193496922231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31adccb474fcaf350800000000000000
+      internalID: 6051376954447026707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_81
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e10dca3fc7aa20800000000000000
+      internalID: 3073653122158159704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41d5392b7e428c0800000000000000
+      internalID: -4024837412799834893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb6313a8ba88b8c0800000000000000
+      internalID: -3983281344794629124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f90c0598759004d0800000000000000
+      internalID: -3170369792539620879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e30e81ca5372e0800000000000000
+      internalID: -2129258411458303518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0574d456e6124edd0800000000000000
+      internalID: -2457802738607765680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 64
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a043a6d6aa61a50800000000000000
+      internalID: 6491563299811101230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a34d184ef16fa0800000000000000
+      internalID: -5809082458649155493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aed4186aac9f090800000000000000
+      internalID: -8000140446564226437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e41e378fe19fab0800000000000000
+      internalID: -4973910261009134015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb10c13692cf3c0800000000000000
+      internalID: -4324536036534140962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_92
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c555b9b7435010800000000000000
+      internalID: 1176362790610650935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ffd0f75d2572940800000000000000
+      internalID: 5271272965773590392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ea8fed3937593f0800000000000000
+      internalID: -894681872024949113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_95
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6728498c31bd12f0800000000000000
+      internalID: -1000448668647020692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_96
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4fada351fc7ff40800000000000000
+      internalID: 5762301938332529870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_97
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3b4ca01b304960800000000000000
+      internalID: 7584126715288043191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5f23f1f08148f0800000000000000
+      internalID: -558023102161789564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_99
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f699561639fb0f6a0800000000000000
+      internalID: -6417418829287810705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895a8564d1c47d20800000000000000
+      internalID: 3275455946985986439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_101
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a018d3f6742990800000000000000
+      internalID: -7411668297070894768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: urban streets C by SchwarzeNacht on DeviantArt_102
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5755bbd31da23830800000000000000
+      internalID: 4049489315761575774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

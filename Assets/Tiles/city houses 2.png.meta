@@ -1,0 +1,3235 @@
+fileFormatVersion: 2
+guid: d5c9efb5b65ee014b8f4c73f38faff89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8836222563887994634
+    second: city houses 2_0
+  - first:
+      213: -9089061918612187534
+    second: city houses 2_1
+  - first:
+      213: -3191264966710549086
+    second: city houses 2_2
+  - first:
+      213: 1944739409128832131
+    second: city houses 2_3
+  - first:
+      213: 2384383817746262122
+    second: city houses 2_4
+  - first:
+      213: 8219503376244185268
+    second: city houses 2_5
+  - first:
+      213: -7870662765035491442
+    second: city houses 2_6
+  - first:
+      213: -476922810293553661
+    second: city houses 2_7
+  - first:
+      213: 7896695731452950381
+    second: city houses 2_8
+  - first:
+      213: 755710487990471086
+    second: city houses 2_9
+  - first:
+      213: 8256109760221079218
+    second: city houses 2_10
+  - first:
+      213: -8981420809830903633
+    second: city houses 2_11
+  - first:
+      213: 7159984560378673078
+    second: city houses 2_12
+  - first:
+      213: 5899084026554901641
+    second: city houses 2_13
+  - first:
+      213: -370611685156112633
+    second: city houses 2_14
+  - first:
+      213: 2560736914631668185
+    second: city houses 2_15
+  - first:
+      213: 593291136124042230
+    second: city houses 2_16
+  - first:
+      213: 7929252977862013604
+    second: city houses 2_17
+  - first:
+      213: 6830752030980959241
+    second: city houses 2_18
+  - first:
+      213: 3917028186324340132
+    second: city houses 2_19
+  - first:
+      213: 8325501034496541217
+    second: city houses 2_20
+  - first:
+      213: -4856560712390523102
+    second: city houses 2_21
+  - first:
+      213: 1514556242340709378
+    second: city houses 2_22
+  - first:
+      213: 4240054695533116086
+    second: city houses 2_23
+  - first:
+      213: -2029138270707942949
+    second: city houses 2_24
+  - first:
+      213: 298328003095685977
+    second: city houses 2_25
+  - first:
+      213: -6346581025363636831
+    second: city houses 2_26
+  - first:
+      213: -5894977715367018910
+    second: city houses 2_27
+  - first:
+      213: 3478540571104824653
+    second: city houses 2_28
+  - first:
+      213: -2086585834819709775
+    second: city houses 2_29
+  - first:
+      213: 4597890387697244140
+    second: city houses 2_30
+  - first:
+      213: -8771008693089792858
+    second: city houses 2_31
+  - first:
+      213: -3166487353959898859
+    second: city houses 2_32
+  - first:
+      213: -7226547799263948367
+    second: city houses 2_33
+  - first:
+      213: 7922112308826666521
+    second: city houses 2_34
+  - first:
+      213: 1210727294964307702
+    second: city houses 2_35
+  - first:
+      213: 4691355670689072272
+    second: city houses 2_36
+  - first:
+      213: 5220622284929749220
+    second: city houses 2_37
+  - first:
+      213: 838368745583974045
+    second: city houses 2_38
+  - first:
+      213: -7051935451075811836
+    second: city houses 2_39
+  - first:
+      213: 3633511155759456274
+    second: city houses 2_40
+  - first:
+      213: 4542625591792450958
+    second: city houses 2_41
+  - first:
+      213: 3766526504399060669
+    second: city houses 2_42
+  - first:
+      213: 7471944641122935395
+    second: city houses 2_43
+  - first:
+      213: 8615171745151240903
+    second: city houses 2_44
+  - first:
+      213: 1792288096937705456
+    second: city houses 2_45
+  - first:
+      213: 1244764946465182246
+    second: city houses 2_46
+  - first:
+      213: 8168060107518385608
+    second: city houses 2_47
+  - first:
+      213: -9181455562068035735
+    second: city houses 2_48
+  - first:
+      213: 305142201856598388
+    second: city houses 2_49
+  - first:
+      213: 7836854595519840054
+    second: city houses 2_50
+  - first:
+      213: -1543700368368802009
+    second: city houses 2_51
+  - first:
+      213: -4220309822528626103
+    second: city houses 2_52
+  - first:
+      213: 1301866389211000938
+    second: city houses 2_53
+  - first:
+      213: -6667245804617468658
+    second: city houses 2_54
+  - first:
+      213: -5200917660204994509
+    second: city houses 2_55
+  - first:
+      213: 4173582647272345709
+    second: city houses 2_56
+  - first:
+      213: 5218316153509186931
+    second: city houses 2_57
+  - first:
+      213: -5807281087448983978
+    second: city houses 2_58
+  - first:
+      213: 5545840778100701074
+    second: city houses 2_59
+  - first:
+      213: 1944093356405938832
+    second: city houses 2_60
+  - first:
+      213: -5850616548227132939
+    second: city houses 2_61
+  - first:
+      213: -1744546299907468452
+    second: city houses 2_62
+  - first:
+      213: 6906015506915059920
+    second: city houses 2_63
+  - first:
+      213: 1128199202575732180
+    second: city houses 2_64
+  - first:
+      213: -3306130639700853292
+    second: city houses 2_65
+  - first:
+      213: 2976242613173262979
+    second: city houses 2_66
+  - first:
+      213: -4262039413246222538
+    second: city houses 2_67
+  - first:
+      213: 9207551984115097084
+    second: city houses 2_68
+  - first:
+      213: 1237205079814279428
+    second: city houses 2_69
+  - first:
+      213: -3938373401477022273
+    second: city houses 2_70
+  - first:
+      213: 3064330747556177110
+    second: city houses 2_71
+  - first:
+      213: -5938357293606656439
+    second: city houses 2_72
+  - first:
+      213: 8265314827186407293
+    second: city houses 2_73
+  - first:
+      213: 8518331400487701066
+    second: city houses 2_74
+  - first:
+      213: 4534401626553056023
+    second: city houses 2_75
+  - first:
+      213: 5003499279866907207
+    second: city houses 2_76
+  - first:
+      213: 21923485353563032
+    second: city houses 2_77
+  - first:
+      213: -8995122104442217903
+    second: city houses 2_78
+  - first:
+      213: -9038112235601621788
+    second: city houses 2_79
+  - first:
+      213: 5105140983285334628
+    second: city houses 2_80
+  - first:
+      213: 4254441853313474303
+    second: city houses 2_81
+  - first:
+      213: -5025448690220934122
+    second: city houses 2_82
+  - first:
+      213: -8953670909265631010
+    second: city houses 2_83
+  - first:
+      213: 5558157696278131488
+    second: city houses 2_84
+  - first:
+      213: 7587096099627552081
+    second: city houses 2_85
+  - first:
+      213: -8600821995436303374
+    second: city houses 2_86
+  - first:
+      213: -3983149810830451867
+    second: city houses 2_87
+  - first:
+      213: 244956262695690724
+    second: city houses 2_88
+  - first:
+      213: 7601120957947298491
+    second: city houses 2_89
+  - first:
+      213: -110702709969533990
+    second: city houses 2_90
+  - first:
+      213: -2206698527273665083
+    second: city houses 2_91
+  - first:
+      213: -394880983073445189
+    second: city houses 2_92
+  - first:
+      213: -6993236883282373576
+    second: city houses 2_93
+  - first:
+      213: 8616096571283453166
+    second: city houses 2_94
+  - first:
+      213: 2780194465849549340
+    second: city houses 2_95
+  - first:
+      213: 8447129863322473135
+    second: city houses 2_96
+  - first:
+      213: 952989155485150864
+    second: city houses 2_97
+  - first:
+      213: 6739303209854729919
+    second: city houses 2_98
+  - first:
+      213: -9204620953087209763
+    second: city houses 2_99
+  - first:
+      213: 1113109440898234651
+    second: city houses 2_100
+  - first:
+      213: -984829254460534975
+    second: city houses 2_101
+  - first:
+      213: -5802112249550126749
+    second: city houses 2_102
+  - first:
+      213: 486609932589088399
+    second: city houses 2_103
+  - first:
+      213: -7357975264955867236
+    second: city houses 2_104
+  - first:
+      213: 5786173166464192897
+    second: city houses 2_105
+  - first:
+      213: -3750684852964980868
+    second: city houses 2_106
+  - first:
+      213: 4220403644213885592
+    second: city houses 2_107
+  - first:
+      213: -3926029250599762839
+    second: city houses 2_108
+  - first:
+      213: 6173856847202772095
+    second: city houses 2_109
+  - first:
+      213: -8198716298939940531
+    second: city houses 2_110
+  - first:
+      213: 9065687225632613665
+    second: city houses 2_111
+  - first:
+      213: -6746837697203834769
+    second: city houses 2_112
+  - first:
+      213: 4674723318830873999
+    second: city houses 2_113
+  - first:
+      213: 189762239840530738
+    second: city houses 2_114
+  - first:
+      213: 9060945898541562003
+    second: city houses 2_115
+  - first:
+      213: 2928916790591795541
+    second: city houses 2_116
+  - first:
+      213: 7133814846579084340
+    second: city houses 2_117
+  - first:
+      213: -1467360128434777557
+    second: city houses 2_118
+  - first:
+      213: 5885360896736426232
+    second: city houses 2_119
+  - first:
+      213: 4364600657428451050
+    second: city houses 2_120
+  - first:
+      213: -8151304533186377701
+    second: city houses 2_121
+  - first:
+      213: 1112676816640603455
+    second: city houses 2_122
+  - first:
+      213: -8953733757024094969
+    second: city houses 2_123
+  - first:
+      213: 7635555959422197475
+    second: city houses 2_124
+  - first:
+      213: -4341017284350413406
+    second: city houses 2_125
+  - first:
+      213: 5005705126903740966
+    second: city houses 2_126
+  - first:
+      213: 3694553517833247797
+    second: city houses 2_127
+  - first:
+      213: -3599121296512904344
+    second: city houses 2_128
+  - first:
+      213: 7662801423811046487
+    second: city houses 2_129
+  - first:
+      213: -3827546663657695972
+    second: city houses 2_130
+  - first:
+      213: 6482200748278763091
+    second: city houses 2_131
+  - first:
+      213: 1925276879868868092
+    second: city houses 2_132
+  - first:
+      213: -8932320499492841777
+    second: city houses 2_133
+  - first:
+      213: 4650688974685975929
+    second: city houses 2_134
+  - first:
+      213: 581412996376592599
+    second: city houses 2_135
+  - first:
+      213: -6570961783924961819
+    second: city houses 2_136
+  - first:
+      213: 2131122829503351354
+    second: city houses 2_137
+  - first:
+      213: -8265498038598253739
+    second: city houses 2_138
+  - first:
+      213: 8662529822600009320
+    second: city houses 2_139
+  - first:
+      213: -7948710604351465028
+    second: city houses 2_140
+  - first:
+      213: 8848761515079364479
+    second: city houses 2_141
+  - first:
+      213: -950098387900451642
+    second: city houses 2_142
+  - first:
+      213: 6287765243094107328
+    second: city houses 2_143
+  - first:
+      213: -1942097382226633361
+    second: city houses 2_144
+  - first:
+      213: 1583157119801120367
+    second: city houses 2_145
+  - first:
+      213: 5115883406012276233
+    second: city houses 2_146
+  - first:
+      213: -1038010005226236582
+    second: city houses 2_147
+  - first:
+      213: 8532250218170334674
+    second: city houses 2_148
+  - first:
+      213: 7393222155234840852
+    second: city houses 2_149
+  - first:
+      213: -6373633418296308718
+    second: city houses 2_150
+  - first:
+      213: -6786149757815926186
+    second: city houses 2_151
+  - first:
+      213: -8149551011544956397
+    second: city houses 2_152
+  - first:
+      213: 8021738908920712701
+    second: city houses 2_153
+  - first:
+      213: 8729741096402272110
+    second: city houses 2_154
+  - first:
+      213: 5792647179646223147
+    second: city houses 2_155
+  - first:
+      213: -30596198021824632
+    second: city houses 2_156
+  - first:
+      213: -496394973310938614
+    second: city houses 2_157
+  - first:
+      213: -5011921781058032499
+    second: city houses 2_158
+  - first:
+      213: 300583510597846330
+    second: city houses 2_159
+  - first:
+      213: 156690735270929336
+    second: city houses 2_160
+  - first:
+      213: -2233357957505169833
+    second: city houses 2_161
+  - first:
+      213: -8621646486587641065
+    second: city houses 2_162
+  - first:
+      213: 3496202482174588240
+    second: city houses 2_163
+  - first:
+      213: -2579739030304400061
+    second: city houses 2_164
+  - first:
+      213: -2293964710425696303
+    second: city houses 2_165
+  - first:
+      213: -3087689226243248948
+    second: city houses 2_166
+  - first:
+      213: -2470912711245903387
+    second: city houses 2_167
+  - first:
+      213: 4042545389054730453
+    second: city houses 2_168
+  - first:
+      213: -8348419317474100725
+    second: city houses 2_169
+  - first:
+      213: 4920316919156993807
+    second: city houses 2_170
+  - first:
+      213: -5885081392855411576
+    second: city houses 2_171
+  - first:
+      213: 1519957477197839799
+    second: city houses 2_172
+  - first:
+      213: 284191317575256723
+    second: city houses 2_173
+  - first:
+      213: 3016656442448921487
+    second: city houses 2_174
+  - first:
+      213: -9114816719212186643
+    second: city houses 2_175
+  - first:
+      213: -659176307468856903
+    second: city houses 2_176
+  - first:
+      213: 146902524811423666
+    second: city houses 2_177
+  - first:
+      213: 4898021979063719548
+    second: city houses 2_178
+  - first:
+      213: -1830548638187131911
+    second: city houses 2_179
+  - first:
+      213: 2726688962581358989
+    second: city houses 2_180
+  - first:
+      213: -4384715575267027210
+    second: city houses 2_181
+  - first:
+      213: 8233347472496899263
+    second: city houses 2_182
+  - first:
+      213: -2674001987859698397
+    second: city houses 2_183
+  - first:
+      213: 9115573963914767980
+    second: city houses 2_184
+  - first:
+      213: 2978131714981550180
+    second: city houses 2_185
+  - first:
+      213: -259182317958846898
+    second: city houses 2_186
+  - first:
+      213: 2670361803510234465
+    second: city houses 2_187
+  - first:
+      213: 1663124362743232576
+    second: city houses 2_188
+  - first:
+      213: 438137159568740647
+    second: city houses 2_189
+  - first:
+      213: 7519806283247862145
+    second: city houses 2_190
+  - first:
+      213: 1187325417787565614
+    second: city houses 2_191
+  - first:
+      213: -312007307450965421
+    second: city houses 2_192
+  - first:
+      213: -11177014585350319
+    second: city houses 2_193
+  - first:
+      213: 7922402945938846382
+    second: city houses 2_194
+  - first:
+      213: 2926815379927254569
+    second: city houses 2_195
+  - first:
+      213: -6682379234592959810
+    second: city houses 2_196
+  - first:
+      213: 377090424305197915
+    second: city houses 2_197
+  - first:
+      213: 3973538200916920635
+    second: city houses 2_198
+  - first:
+      213: -5426578407170356122
+    second: city houses 2_199
+  - first:
+      213: -6248043077380425098
+    second: city houses 2_200
+  - first:
+      213: -3536741414868276015
+    second: city houses 2_201
+  - first:
+      213: 3719087622908440631
+    second: city houses 2_202
+  - first:
+      213: 1247546070466565830
+    second: city houses 2_203
+  - first:
+      213: 5327374413434213549
+    second: city houses 2_204
+  - first:
+      213: 7594069971225457990
+    second: city houses 2_205
+  - first:
+      213: 9119655205614350761
+    second: city houses 2_206
+  - first:
+      213: -2684050709040334549
+    second: city houses 2_207
+  - first:
+      213: -1379649216324384576
+    second: city houses 2_208
+  - first:
+      213: -2851992476348714106
+    second: city houses 2_209
+  - first:
+      213: 4226784676095920105
+    second: city houses 2_210
+  - first:
+      213: 5857417469244904445
+    second: city houses 2_211
+  - first:
+      213: 4927782091270535567
+    second: city houses 2_212
+  - first:
+      213: -4871032120725926565
+    second: city houses 2_213
+  - first:
+      213: -3462076791960762757
+    second: city houses 2_214
+  - first:
+      213: 3154392619858254053
+    second: city houses 2_215
+  - first:
+      213: -8370089530852139561
+    second: city houses 2_216
+  - first:
+      213: 3211940642316679071
+    second: city houses 2_217
+  - first:
+      213: 6293081052430499392
+    second: city houses 2_218
+  - first:
+      213: -7109412260339582014
+    second: city houses 2_219
+  - first:
+      213: -3652556738194344424
+    second: city houses 2_220
+  - first:
+      213: 2415693658988899936
+    second: city houses 2_221
+  - first:
+      213: -1841940106455159269
+    second: city houses 2_222
+  - first:
+      213: 6520793855654259088
+    second: city houses 2_223
+  - first:
+      213: 5179787379539883913
+    second: city houses 2_224
+  - first:
+      213: -4681942685737365831
+    second: city houses 2_225
+  - first:
+      213: -2974226593634656363
+    second: city houses 2_226
+  - first:
+      213: 4631003608251619448
+    second: city houses 2_227
+  - first:
+      213: 7153817372417824316
+    second: city houses 2_228
+  - first:
+      213: 2626358136841774835
+    second: city houses 2_229
+  - first:
+      213: -2168688950796051452
+    second: city houses 2_230
+  - first:
+      213: 6838608031325861421
+    second: city houses 2_231
+  - first:
+      213: -1492020504886433370
+    second: city houses 2_232
+  - first:
+      213: 4864243147260097028
+    second: city houses 2_233
+  - first:
+      213: -6187207143088673792
+    second: city houses 2_234
+  - first:
+      213: 6098912906449224021
+    second: city houses 2_235
+  - first:
+      213: -8938243253227678754
+    second: city houses 2_236
+  - first:
+      213: 3041182141478362668
+    second: city houses 2_237
+  - first:
+      213: 3591620579103420290
+    second: city houses 2_238
+  - first:
+      213: 3197734327745689530
+    second: city houses 2_239
+  - first:
+      213: -4973637177773070837
+    second: city houses 2_240
+  - first:
+      213: -4434914391487249323
+    second: city houses 2_241
+  - first:
+      213: -8338190048896291543
+    second: city houses 2_242
+  - first:
+      213: -3423377808529003325
+    second: city houses 2_243
+  - first:
+      213: 3784616961208043236
+    second: city houses 2_244
+  - first:
+      213: 5153776735513877809
+    second: city houses 2_245
+  - first:
+      213: -7646092332423274734
+    second: city houses 2_246
+  - first:
+      213: 5703000282118871774
+    second: city houses 2_247
+  - first:
+      213: 1113264325455507188
+    second: city houses 2_248
+  - first:
+      213: -2857880277205680003
+    second: city houses 2_249
+  - first:
+      213: -7596345339840356125
+    second: city houses 2_250
+  - first:
+      213: -8829853904914984363
+    second: city houses 2_251
+  - first:
+      213: 1325006072916765155
+    second: city houses 2_252
+  - first:
+      213: -8875492678838944706
+    second: city houses 2_253
+  - first:
+      213: 6513239287554625930
+    second: city houses 2_254
+  - first:
+      213: -243177948271205293
+    second: city houses 2_255
+  - first:
+      213: 522494336032508035
+    second: city houses 2_256
+  - first:
+      213: 8442210923370938958
+    second: city houses 2_257
+  - first:
+      213: 4501921515181734016
+    second: city houses 2_258
+  - first:
+      213: -1640863220589993407
+    second: city houses 2_259
+  - first:
+      213: 6505522212409195774
+    second: city houses 2_260
+  - first:
+      213: 5396830332309814037
+    second: city houses 2_261
+  - first:
+      213: 4347785557147341533
+    second: city houses 2_262
+  - first:
+      213: 3109353076685392122
+    second: city houses 2_263
+  - first:
+      213: 2876576317583295603
+    second: city houses 2_264
+  - first:
+      213: 4112139475266865657
+    second: city houses 2_265
+  - first:
+      213: 836669749254680889
+    second: city houses 2_266
+  - first:
+      213: -7464176390655651428
+    second: city houses 2_267
+  - first:
+      213: -1233834709372353238
+    second: city houses 2_268
+  - first:
+      213: 3915035658392278946
+    second: city houses 2_269
+  - first:
+      213: 2027138004561896431
+    second: city houses 2_270
+  - first:
+      213: -1988264978259125588
+    second: city houses 2_271
+  - first:
+      213: 1020916488509985401
+    second: city houses 2_272
+  - first:
+      213: -7416671237492018972
+    second: city houses 2_273
+  - first:
+      213: 4053514107588199580
+    second: city houses 2_274
+  - first:
+      213: 8709738292579867800
+    second: city houses 2_275
+  - first:
+      213: -8315026933640857253
+    second: city houses 2_276
+  - first:
+      213: 664905920298531464
+    second: city houses 2_277
+  - first:
+      213: -2149371794770426728
+    second: city houses 2_278
+  - first:
+      213: -2930634195969649951
+    second: city houses 2_279
+  - first:
+      213: -1559713575472345727
+    second: city houses 2_280
+  - first:
+      213: 4904785218225253936
+    second: city houses 2_281
+  - first:
+      213: -7988267864613087984
+    second: city houses 2_282
+  - first:
+      213: 1772052846445027147
+    second: city houses 2_283
+  - first:
+      213: 1857001000024359957
+    second: city houses 2_284
+  - first:
+      213: 1662796050884734483
+    second: city houses 2_285
+  - first:
+      213: -7535008330203551134
+    second: city houses 2_286
+  - first:
+      213: 3564248706346874947
+    second: city houses 2_287
+  - first:
+      213: -2164394524099004229
+    second: city houses 2_288
+  - first:
+      213: -4674235976603193056
+    second: city houses 2_289
+  - first:
+      213: -5255934737594876831
+    second: city houses 2_290
+  - first:
+      213: -6968939277938469850
+    second: city houses 2_291
+  - first:
+      213: 2381832673288115791
+    second: city houses 2_292
+  - first:
+      213: 1747246042849183840
+    second: city houses 2_293
+  - first:
+      213: -1972617233243295562
+    second: city houses 2_294
+  - first:
+      213: -4671600681058286806
+    second: city houses 2_295
+  - first:
+      213: 889089265823554449
+    second: city houses 2_296
+  - first:
+      213: 6998870870770642217
+    second: city houses 2_297
+  - first:
+      213: -2975153875600557613
+    second: city houses 2_298
+  - first:
+      213: -5534743177072695278
+    second: city houses 2_299
+  - first:
+      213: 1307841146763010061
+    second: city houses 2_300
+  - first:
+      213: -3027747609763201972
+    second: city houses 2_301
+  - first:
+      213: -4381541032511971902
+    second: city houses 2_302
+  - first:
+      213: 7564581436096909212
+    second: city houses 2_303
+  - first:
+      213: 1320396664745899283
+    second: city houses 2_304
+  - first:
+      213: -4586533710564647016
+    second: city houses 2_305
+  - first:
+      213: -4395263440088860674
+    second: city houses 2_306
+  - first:
+      213: 3205029690092056373
+    second: city houses 2_307
+  - first:
+      213: -2721913906358352284
+    second: city houses 2_308
+  - first:
+      213: -264313494620940366
+    second: city houses 2_309
+  - first:
+      213: 6176022514606280725
+    second: city houses 2_310
+  - first:
+      213: 4761533833040921254
+    second: city houses 2_311
+  - first:
+      213: -4692846743752115356
+    second: city houses 2_312
+  - first:
+      213: 5244939286637551273
+    second: city houses 2_313
+  - first:
+      213: -5585037241673940558
+    second: city houses 2_314
+  - first:
+      213: -432431440968983761
+    second: city houses 2_315
+  - first:
+      213: 231077805073071800
+    second: city houses 2_316
+  - first:
+      213: -5801919705346489527
+    second: city houses 2_317
+  - first:
+      213: -3505508936173156492
+    second: city houses 2_318
+  - first:
+      213: -8368524830214297410
+    second: city houses 2_319
+  - first:
+      213: 6116231757955844885
+    second: city houses 2_320
+  - first:
+      213: 1730297196019299523
+    second: city houses 2_321
+  - first:
+      213: -76448200398732617
+    second: city houses 2_322
+  - first:
+      213: 8183676661853723413
+    second: city houses 2_323
+  - first:
+      213: 5703434290644960973
+    second: city houses 2_324
+  - first:
+      213: -1944271951528867871
+    second: city houses 2_325
+  - first:
+      213: -565351277085763951
+    second: city houses 2_326
+  - first:
+      213: 3323694816510728453
+    second: city houses 2_327
+  - first:
+      213: -7812895457626068929
+    second: city houses 2_328
+  - first:
+      213: 5266251479255802622
+    second: city houses 2_329
+  - first:
+      213: 6445654535677853371
+    second: city houses 2_330
+  - first:
+      213: -5702523589236150619
+    second: city houses 2_331
+  - first:
+      213: -4662524419949009328
+    second: city houses 2_332
+  - first:
+      213: 5753511217542180011
+    second: city houses 2_333
+  - first:
+      213: -9159243144051698645
+    second: city houses 2_334
+  - first:
+      213: -7194450082511724618
+    second: city houses 2_335
+  - first:
+      213: -3784767141819142259
+    second: city houses 2_336
+  - first:
+      213: -768909315965638016
+    second: city houses 2_337
+  - first:
+      213: -1332890076602857682
+    second: city houses 2_338
+  - first:
+      213: 6391078822938433313
+    second: city houses 2_339
+  - first:
+      213: -608544545140227701
+    second: city houses 2_340
+  - first:
+      213: -1454836832092264482
+    second: city houses 2_341
+  - first:
+      213: 4120358325496607045
+    second: city houses 2_342
+  - first:
+      213: 657046440547423770
+    second: city houses 2_343
+  - first:
+      213: -1309573029866728812
+    second: city houses 2_344
+  - first:
+      213: 1383936471342343370
+    second: city houses 2_345
+  - first:
+      213: -939005662980012291
+    second: city houses 2_346
+  - first:
+      213: -6320169622928930991
+    second: city houses 2_347
+  - first:
+      213: 1664550478183667940
+    second: city houses 2_348
+  - first:
+      213: -8732764756474404931
+    second: city houses 2_349
+  - first:
+      213: 9219113407738350883
+    second: city houses 2_350
+  - first:
+      213: 5797892775224854603
+    second: city houses 2_351
+  - first:
+      213: 5858994171445684872
+    second: city houses 2_352
+  - first:
+      213: 2856257952671797376
+    second: city houses 2_353
+  - first:
+      213: -480746586916830398
+    second: city houses 2_354
+  - first:
+      213: 9005462110594901093
+    second: city houses 2_355
+  - first:
+      213: 347333097741897542
+    second: city houses 2_356
+  - first:
+      213: 5358588769981093204
+    second: city houses 2_357
+  - first:
+      213: -1137907324480177008
+    second: city houses 2_358
+  - first:
+      213: 8878462493383513705
+    second: city houses 2_359
+  - first:
+      213: 2858594572481953369
+    second: city houses 2_360
+  - first:
+      213: 8846391370184918494
+    second: city houses 2_361
+  - first:
+      213: -4654964493037979254
+    second: city houses 2_362
+  - first:
+      213: -7388586841269818598
+    second: city houses 2_363
+  - first:
+      213: -457964399735163449
+    second: city houses 2_364
+  - first:
+      213: 9099009244494248337
+    second: city houses 2_365
+  - first:
+      213: 7040127560615348313
+    second: city houses 2_366
+  - first:
+      213: -7637137793718721088
+    second: city houses 2_367
+  - first:
+      213: 8817081844437226908
+    second: city houses 2_368
+  - first:
+      213: -5235732477937120881
+    second: city houses 2_369
+  - first:
+      213: -8176237991199010346
+    second: city houses 2_370
+  - first:
+      213: 4934678262383911364
+    second: city houses 2_371
+  - first:
+      213: 2213405919689850498
+    second: city houses 2_372
+  - first:
+      213: 1207401027771932456
+    second: city houses 2_373
+  - first:
+      213: 4743595669167796378
+    second: city houses 2_374
+  - first:
+      213: 7992150009660906625
+    second: city houses 2_375
+  - first:
+      213: -5792856449923779739
+    second: city houses 2_376
+  - first:
+      213: 6545190340982731074
+    second: city houses 2_377
+  - first:
+      213: 6166181728161895371
+    second: city houses 2_378
+  - first:
+      213: 8783326563911061406
+    second: city houses 2_379
+  - first:
+      213: -8347570605403961406
+    second: city houses 2_380
+  - first:
+      213: -275133315984990502
+    second: city houses 2_381
+  - first:
+      213: -525846670507522786
+    second: city houses 2_382
+  - first:
+      213: -8609090673119808477
+    second: city houses 2_383
+  - first:
+      213: 8694780125057277718
+    second: city houses 2_384
+  - first:
+      213: 8403661408571464154
+    second: city houses 2_385
+  - first:
+      213: -3908671073732345604
+    second: city houses 2_386
+  - first:
+      213: -78385002655332910
+    second: city houses 2_387
+  - first:
+      213: 6609185388271814080
+    second: city houses 2_388
+  - first:
+      213: -2068963049502866397
+    second: city houses 2_389
+  - first:
+      213: -2334770637402465356
+    second: city houses 2_390
+  - first:
+      213: -891781689855168256
+    second: city houses 2_391
+  - first:
+      213: 3090877551671403589
+    second: city houses 2_392
+  - first:
+      213: -754646717025492016
+    second: city houses 2_393
+  - first:
+      213: 9035493771587775012
+    second: city houses 2_394
+  - first:
+      213: 8676709667975479786
+    second: city houses 2_395
+  - first:
+      213: 2888771993693405348
+    second: city houses 2_396
+  - first:
+      213: -8244505033359047949
+    second: city houses 2_397
+  - first:
+      213: 8529803053045916731
+    second: city houses 2_398
+  - first:
+      213: -568225104276957435
+    second: city houses 2_399
+  - first:
+      213: 7874620159641938181
+    second: city houses 2_400
+  - first:
+      213: 8301182981719542877
+    second: city houses 2_401
+  - first:
+      213: 1868138489125023613
+    second: city houses 2_402
+  - first:
+      213: -7482489117390526660
+    second: city houses 2_403
+  - first:
+      213: -3878605432137211571
+    second: city houses 2_404
+  - first:
+      213: -4657660397153505301
+    second: city houses 2_405
+  - first:
+      213: -4288333088794923502
+    second: city houses 2_406
+  - first:
+      213: 8107731070457315915
+    second: city houses 2_407
+  - first:
+      213: 4949923507805422883
+    second: city houses 2_408
+  - first:
+      213: 3001204844405645956
+    second: city houses 2_409
+  - first:
+      213: -4033543713632077618
+    second: city houses 2_410
+  - first:
+      213: 3145387798616498350
+    second: city houses 2_411
+  - first:
+      213: 320035517180198307
+    second: city houses 2_412
+  - first:
+      213: -6021723176184862078
+    second: city houses 2_413
+  - first:
+      213: 2148910800209292559
+    second: city houses 2_414
+  - first:
+      213: 4133070796210985648
+    second: city houses 2_415
+  - first:
+      213: -264436520197908904
+    second: city houses 2_416
+  - first:
+      213: -7397497130836488034
+    second: city houses 2_417
+  - first:
+      213: 6997394962863791138
+    second: city houses 2_418
+  - first:
+      213: 2187495585838722254
+    second: city houses 2_419
+  - first:
+      213: -8582686234579837377
+    second: city houses 2_420
+  - first:
+      213: 7855979675082751497
+    second: city houses 2_421
+  - first:
+      213: 1308279149442482622
+    second: city houses 2_422
+  - first:
+      213: -1850226833954648284
+    second: city houses 2_423
+  - first:
+      213: -2793904072518542506
+    second: city houses 2_424
+  - first:
+      213: -6529066160649105980
+    second: city houses 2_425
+  - first:
+      213: 7306919596620142250
+    second: city houses 2_426
+  - first:
+      213: 957494725092124390
+    second: city houses 2_427
+  - first:
+      213: -2541926335816467837
+    second: city houses 2_428
+  - first:
+      213: -542042485864389545
+    second: city houses 2_429
+  - first:
+      213: 2749572933507036239
+    second: city houses 2_430
+  - first:
+      213: -1829114709371533650
+    second: city houses 2_431
+  - first:
+      213: 5525836372006367386
+    second: city houses 2_432
+  - first:
+      213: 1984004816467739924
+    second: city houses 2_433
+  - first:
+      213: 8318522186046463861
+    second: city houses 2_434
+  - first:
+      213: -3848137159969833746
+    second: city houses 2_435
+  - first:
+      213: -5087398627608113681
+    second: city houses 2_436
+  - first:
+      213: -6385586769817306411
+    second: city houses 2_437
+  - first:
+      213: -6451648038525624654
+    second: city houses 2_438
+  - first:
+      213: 6726382023493691199
+    second: city houses 2_439
+  - first:
+      213: 2666545487231519602
+    second: city houses 2_440
+  - first:
+      213: -7207832513230791143
+    second: city houses 2_441
+  - first:
+      213: 6551013950149317626
+    second: city houses 2_442
+  - first:
+      213: 3319499932765732023
+    second: city houses 2_443
+  - first:
+      213: -5453580238528905082
+    second: city houses 2_444
+  - first:
+      213: 4682971385406637396
+    second: city houses 2_445
+  - first:
+      213: 8042151909039126844
+    second: city houses 2_446
+  - first:
+      213: 4422314537534396289
+    second: city houses 2_447
+  - first:
+      213: 6917199233659371146
+    second: city houses 2_448
+  - first:
+      213: -5520999011076468662
+    second: city houses 2_449
+  - first:
+      213: 5185862925471572723
+    second: city houses 2_450
+  - first:
+      213: -3876040675581274673
+    second: city houses 2_451
+  - first:
+      213: -5219421666096131312
+    second: city houses 2_452
+  - first:
+      213: 91591416752993525
+    second: city houses 2_453
+  - first:
+      213: -1674155382943456735
+    second: city houses 2_454
+  - first:
+      213: 7975111415066663497
+    second: city houses 2_455
+  - first:
+      213: 3846382844359471972
+    second: city houses 2_456
+  - first:
+      213: 1351370342181162724
+    second: city houses 2_457
+  - first:
+      213: -819092381376796525
+    second: city houses 2_458
+  - first:
+      213: -5820815258333078669
+    second: city houses 2_459
+  - first:
+      213: -152770831137065109
+    second: city houses 2_460
+  - first:
+      213: 2709027436210817361
+    second: city houses 2_461
+  - first:
+      213: 391924338531308490
+    second: city houses 2_462
+  - first:
+      213: 5205044265030210967
+    second: city houses 2_463
+  - first:
+      213: 4643543468830779959
+    second: city houses 2_464
+  - first:
+      213: 6395575863542613702
+    second: city houses 2_465
+  - first:
+      213: -4888171677274013477
+    second: city houses 2_466
+  - first:
+      213: -4720959888903191788
+    second: city houses 2_467
+  - first:
+      213: 8990650428632936921
+    second: city houses 2_468
+  - first:
+      213: 8846196428486250174
+    second: city houses 2_469
+  - first:
+      213: -148010983809428533
+    second: city houses 2_470
+  - first:
+      213: -5961759268298027466
+    second: city houses 2_471
+  - first:
+      213: -4706062524018786950
+    second: city houses 2_472
+  - first:
+      213: -6349018430815982265
+    second: city houses 2_473
+  - first:
+      213: 5821577444646320764
+    second: city houses 2_474
+  - first:
+      213: -7972725208505392482
+    second: city houses 2_475
+  - first:
+      213: -939527732544883216
+    second: city houses 2_476
+  - first:
+      213: -50049661335001561
+    second: city houses 2_477
+  - first:
+      213: -1755981845687583364
+    second: city houses 2_478
+  - first:
+      213: 94011803333903966
+    second: city houses 2_479
+  - first:
+      213: -6980421879624493261
+    second: city houses 2_480
+  - first:
+      213: 2353266310672957502
+    second: city houses 2_481
+  - first:
+      213: -8023244629588429835
+    second: city houses 2_482
+  - first:
+      213: 8411775850423243440
+    second: city houses 2_483
+  - first:
+      213: -1430893584679336202
+    second: city houses 2_484
+  - first:
+      213: 7629577850954574425
+    second: city houses 2_485
+  - first:
+      213: 4645999059771254358
+    second: city houses 2_486
+  - first:
+      213: 2973995589386788306
+    second: city houses 2_487
+  - first:
+      213: -8923974522086440270
+    second: city houses 2_488
+  - first:
+      213: -8404201513367850147
+    second: city houses 2_489
+  - first:
+      213: 8828998832099712413
+    second: city houses 2_490
+  - first:
+      213: 5142974082029818877
+    second: city houses 2_491
+  - first:
+      213: 3912469763595310988
+    second: city houses 2_492
+  - first:
+      213: 63641778984820724
+    second: city houses 2_493
+  - first:
+      213: -4153212875197994367
+    second: city houses 2_494
+  - first:
+      213: 7249875747994602370
+    second: city houses 2_495
+  - first:
+      213: 444081160330733726
+    second: city houses 2_496
+  - first:
+      213: 5537625397914552726
+    second: city houses 2_497
+  - first:
+      213: -9050083071788110524
+    second: city houses 2_498
+  - first:
+      213: -7901117918028826904
+    second: city houses 2_499
+  - first:
+      213: -6645297799377613756
+    second: city houses 2_500
+  - first:
+      213: -207792515201944060
+    second: city houses 2_501
+  - first:
+      213: -2404451173278928509
+    second: city houses 2_502
+  - first:
+      213: 3269149812061170251
+    second: city houses 2_503
+  - first:
+      213: -7039311502788401722
+    second: city houses 2_504
+  - first:
+      213: -1736735397250973284
+    second: city houses 2_505
+  - first:
+      213: -1319651910371159016
+    second: city houses 2_506
+  - first:
+      213: -6249069111849116765
+    second: city houses 2_507
+  - first:
+      213: -3718613062235693155
+    second: city houses 2_508
+  - first:
+      213: 2470087280655383522
+    second: city houses 2_509
+  - first:
+      213: 400746977965230346
+    second: city houses 2_510
+  - first:
+      213: 9043798999644832070
+    second: city houses 2_511
+  - first:
+      213: 4003638949400566819
+    second: city houses 2_512
+  - first:
+      213: 2911679795424795853
+    second: city houses 2_513
+  - first:
+      213: 2329003509146686387
+    second: city houses 2_514
+  - first:
+      213: 1134569212707464078
+    second: city houses 2_515
+  - first:
+      213: 5857392207628466591
+    second: city houses 2_516
+  - first:
+      213: 4842686160963313706
+    second: city houses 2_517
+  - first:
+      213: 304227702714239487
+    second: city houses 2_518
+  - first:
+      213: 4581381635495775532
+    second: city houses 2_519
+  - first:
+      213: -8601058144405279774
+    second: city houses 2_520
+  - first:
+      213: 7579220027699109055
+    second: city houses 2_521
+  - first:
+      213: 3498240002246752383
+    second: city houses 2_522
+  - first:
+      213: -1308996186134627684
+    second: city houses 2_523
+  - first:
+      213: -1224759188544564758
+    second: city houses 2_524
+  - first:
+      213: 3092788003099245328
+    second: city houses 2_525
+  - first:
+      213: -2470123437644365856
+    second: city houses 2_526
+  - first:
+      213: -112713923603370712
+    second: city houses 2_527
+  - first:
+      213: -8697593628239083365
+    second: city houses 2_528
+  - first:
+      213: -8123861091492105762
+    second: city houses 2_529
+  - first:
+      213: -6503622494041753105
+    second: city houses 2_530
+  - first:
+      213: 5867493776094770435
+    second: city houses 2_531
+  - first:
+      213: -1926626213620011406
+    second: city houses 2_532
+  - first:
+      213: 484540435835178848
+    second: city houses 2_533
+  - first:
+      213: 7354909513917501673
+    second: city houses 2_534
+  - first:
+      213: -8124529691021085835
+    second: city houses 2_535
+  - first:
+      213: 955678229538380489
+    second: city houses 2_536
+  - first:
+      213: -4333231808364058513
+    second: city houses 2_537
+  - first:
+      213: -7613984816542580274
+    second: city houses 2_538
+  - first:
+      213: 6534097738923907221
+    second: city houses 2_539
+  - first:
+      213: 5199269250212602302
+    second: city houses 2_540
+  - first:
+      213: -5021714776458124698
+    second: city houses 2_541
+  - first:
+      213: -7902865516077272992
+    second: city houses 2_542
+  - first:
+      213: 1620873922775801352
+    second: city houses 2_543
+  - first:
+      213: 3598271991913891827
+    second: city houses 2_544
+  - first:
+      213: 2120486071227517970
+    second: city houses 2_545
+  - first:
+      213: 6915513001422479640
+    second: city houses 2_546
+  - first:
+      213: -8107589772312642078
+    second: city houses 2_547
+  - first:
+      213: -6224169789642846234
+    second: city houses 2_548
+  - first:
+      213: 5148588868995036935
+    second: city houses 2_549
+  - first:
+      213: -5092560687387673886
+    second: city houses 2_550
+  - first:
+      213: 5443887885298930536
+    second: city houses 2_551
+  - first:
+      213: 4621801209716486174
+    second: city houses 2_552
+  - first:
+      213: -8472612250105139542
+    second: city houses 2_553
+  - first:
+      213: -4495794776437693541
+    second: city houses 2_554
+  - first:
+      213: 2472871597601946883
+    second: city houses 2_555
+  - first:
+      213: 7904411949001922480
+    second: city houses 2_556
+  - first:
+      213: 3650183588882722533
+    second: city houses 2_557
+  - first:
+      213: -5944074049310816438
+    second: city houses 2_558
+  - first:
+      213: -5128178072212818815
+    second: city houses 2_559
+  - first:
+      213: -8396276233036605392
+    second: city houses 2_560
+  - first:
+      213: -346273702649278207
+    second: city houses 2_561
+  - first:
+      213: 6788917923387170302
+    second: city houses 2_562
+  - first:
+      213: -9101811673906600514
+    second: city houses 2_563
+  - first:
+      213: 5308031267770504830
+    second: city houses 2_564
+  - first:
+      213: -1583638134665622402
+    second: city houses 2_565
+  - first:
+      213: -2029527704885261051
+    second: city houses 2_566
+  - first:
+      213: 1706754001210977858
+    second: city houses 2_567
+  - first:
+      213: 8626794217829726101
+    second: city houses 2_568
+  - first:
+      213: 2281378109509969514
+    second: city houses 2_569
+  - first:
+      213: 1934449939754462716
+    second: city houses 2_570
+  - first:
+      213: 2594907820197949975
+    second: city houses 2_571
+  - first:
+      213: 5100000042971882789
+    second: city houses 2_572
+  - first:
+      213: 5788372551516963522
+    second: city houses 2_573
+  - first:
+      213: 7456314551939831485
+    second: city houses 2_574
+  - first:
+      213: -5789240140371071892
+    second: city houses 2_575
+  - first:
+      213: -4208053268046424920
+    second: city houses 2_576
+  - first:
+      213: 9160784434010752483
+    second: city houses 2_577
+  - first:
+      213: -1680729623635697459
+    second: city houses 2_578
+  - first:
+      213: 6331907065863127763
+    second: city houses 2_579
+  - first:
+      213: -7592091776696583601
+    second: city houses 2_580
+  - first:
+      213: 2349370073109096470
+    second: city houses 2_581
+  - first:
+      213: 2482490915177287589
+    second: city houses 2_582
+  - first:
+      213: -2706563917013483741
+    second: city houses 2_583
+  - first:
+      213: 7245628622291449396
+    second: city houses 2_584
+  - first:
+      213: -7298240142994968711
+    second: city houses 2_585
+  - first:
+      213: -8661790187158172010
+    second: city houses 2_586
+  - first:
+      213: -3735751446961574707
+    second: city houses 2_587
+  - first:
+      213: 7691459456990099553
+    second: city houses 2_588
+  - first:
+      213: -3510355388185211057
+    second: city houses 2_589
+  - first:
+      213: -5862482044713764577
+    second: city houses 2_590
+  - first:
+      213: 1657077998533653530
+    second: city houses 2_591
+  - first:
+      213: 2273107142145646998
+    second: city houses 2_592
+  - first:
+      213: 6207982245766936613
+    second: city houses 2_593
+  - first:
+      213: -6933179030821568287
+    second: city houses 2_594
+  - first:
+      213: 1031265402800220851
+    second: city houses 2_595
+  - first:
+      213: -7927776790942358441
+    second: city houses 2_596
+  - first:
+      213: -6582216296026903697
+    second: city houses 2_597
+  - first:
+      213: -3783535075134922468
+    second: city houses 2_598
+  - first:
+      213: -2721128211635005135
+    second: city houses 2_599
+  - first:
+      213: -5819406704692330603
+    second: city houses 2_600
+  - first:
+      213: 3385864185090284086
+    second: city houses 2_601
+  - first:
+      213: 3862538370926830190
+    second: city houses 2_602
+  - first:
+      213: 6750987788942492019
+    second: city houses 2_603
+  - first:
+      213: 4740128454212078914
+    second: city houses 2_604
+  - first:
+      213: 2126455618255259573
+    second: city houses 2_605
+  - first:
+      213: 6365032666349034664
+    second: city houses 2_606
+  - first:
+      213: 753769998028844028
+    second: city houses 2_607
+  - first:
+      213: 5531263073045598648
+    second: city houses 2_608
+  - first:
+      213: -6757357708530037528
+    second: city houses 2_609
+  - first:
+      213: -542673805948421980
+    second: city houses 2_610
+  - first:
+      213: 3812084619542652066
+    second: city houses 2_611
+  - first:
+      213: -1889874061320249041
+    second: city houses 2_612
+  - first:
+      213: -691877663638654609
+    second: city houses 2_613
+  - first:
+      213: 4636863017059035434
+    second: city houses 2_614
+  - first:
+      213: 8381468677718548150
+    second: city houses 2_615
+  - first:
+      213: 2392260789172853076
+    second: city houses 2_616
+  - first:
+      213: 367849394715619546
+    second: city houses 2_617
+  - first:
+      213: 101516833798099333
+    second: city houses 2_618
+  - first:
+      213: -6353794275207795991
+    second: city houses 2_619
+  - first:
+      213: 6032150350827700663
+    second: city houses 2_620
+  - first:
+      213: 4213732017177060820
+    second: city houses 2_621
+  - first:
+      213: 6075488906767602504
+    second: city houses 2_622
+  - first:
+      213: 4978264586459012441
+    second: city houses 2_623
+  - first:
+      213: 7030561598710152184
+    second: city houses 2_624
+  - first:
+      213: -8805941230451370189
+    second: city houses 2_625
+  - first:
+      213: -57888363103251376
+    second: city houses 2_626
+  - first:
+      213: 4714962591486367029
+    second: city houses 2_627
+  - first:
+      213: 5415356115018566120
+    second: city houses 2_628
+  - first:
+      213: 4811623691400595486
+    second: city houses 2_629
+  - first:
+      213: 6985670829314763660
+    second: city houses 2_630
+  - first:
+      213: -7591637678935252032
+    second: city houses 2_631
+  - first:
+      213: 1044780783369293123
+    second: city houses 2_632
+  - first:
+      213: -5088775022673060710
+    second: city houses 2_633
+  - first:
+      213: -3723477939569550054
+    second: city houses 2_634
+  - first:
+      213: 7352482619714495940
+    second: city houses 2_635
+  - first:
+      213: -8053415677099024385
+    second: city houses 2_636
+  - first:
+      213: -5963678733486799597
+    second: city houses 2_637
+  - first:
+      213: -6391982236399395118
+    second: city houses 2_638
+  - first:
+      213: 7671927488047441176
+    second: city houses 2_639
+  - first:
+      213: 3472781751558701963
+    second: city houses 2_640
+  - first:
+      213: 5350435659639785242
+    second: city houses 2_641
+  - first:
+      213: -9214758880035983197
+    second: city houses 2_642
+  - first:
+      213: 2900867870867618363
+    second: city houses 2_643
+  - first:
+      213: 2315866678580860984
+    second: city houses 2_644
+  - first:
+      213: 7096802074805267851
+    second: city houses 2_645
+  - first:
+      213: 5221345209127933219
+    second: city houses 2_646
+  - first:
+      213: 6029691543817545261
+    second: city houses 2_647
+  - first:
+      213: 2933086056982543902
+    second: city houses 2_648
+  - first:
+      213: -8160146886469425864
+    second: city houses 2_649
+  - first:
+      213: -576943489930146770
+    second: city houses 2_650
+  - first:
+      213: -94318705746226961
+    second: city houses 2_651
+  - first:
+      213: 2338405864920111340
+    second: city houses 2_652
+  - first:
+      213: -1673361336842969436
+    second: city houses 2_653
+  - first:
+      213: -2311224859859320948
+    second: city houses 2_654
+  - first:
+      213: -1878087768092243181
+    second: city houses 2_655
+  - first:
+      213: -3909002275756605451
+    second: city houses 2_656
+  - first:
+      213: 5656611845493854773
+    second: city houses 2_657
+  - first:
+      213: 4023348000502794341
+    second: city houses 2_658
+  - first:
+      213: -6384850615782043790
+    second: city houses 2_659
+  - first:
+      213: -5242828610913933741
+    second: city houses 2_660
+  - first:
+      213: -5579468693769488786
+    second: city houses 2_661
+  - first:
+      213: -3453187714031808859
+    second: city houses 2_662
+  - first:
+      213: 3533959369078487933
+    second: city houses 2_663
+  - first:
+      213: 2723638533414242190
+    second: city houses 2_664
+  - first:
+      213: 13408656325912407
+    second: city houses 2_665
+  - first:
+      213: 5157465377962100828
+    second: city houses 2_666
+  - first:
+      213: -2526075975972928908
+    second: city houses 2_667
+  - first:
+      213: 1894509834553810396
+    second: city houses 2_668
+  - first:
+      213: 1828041699931473218
+    second: city houses 2_669
+  - first:
+      213: 6608181683013042746
+    second: city houses 2_670
+  - first:
+      213: 8041062529958672208
+    second: city houses 2_671
+  - first:
+      213: -9040835949955552420
+    second: city houses 2_672
+  - first:
+      213: 6174233464620397076
+    second: city houses 2_673
+  - first:
+      213: 2592657190867964832
+    second: city houses 2_674
+  - first:
+      213: 6787165387396423172
+    second: city houses 2_675
+  - first:
+      213: -6487743204818863208
+    second: city houses 2_676
+  - first:
+      213: 3716774289820436094
+    second: city houses 2_677
+  - first:
+      213: 5389234949976457864
+    second: city houses 2_678
+  - first:
+      213: 7958713555584407802
+    second: city houses 2_679
+  - first:
+      213: -6258203651619477825
+    second: city houses 2_680
+  - first:
+      213: 8640978692259676981
+    second: city houses 2_681
+  - first:
+      213: 4724239055008739072
+    second: city houses 2_682
+  - first:
+      213: 9110366686250898370
+    second: city houses 2_683
+  - first:
+      213: 5303929100554435414
+    second: city houses 2_684
+  - first:
+      213: 6752568493653924223
+    second: city houses 2_685
+  - first:
+      213: -1494847626221587
+    second: city houses 2_686
+  - first:
+      213: -7187961519340418807
+    second: city houses 2_687
+  - first:
+      213: 1619590898284269529
+    second: city houses 2_688
+  - first:
+      213: -6479571154268148498
+    second: city houses 2_689
+  - first:
+      213: 3983985936227759784
+    second: city houses 2_690
+  - first:
+      213: -2231684440929818574
+    second: city houses 2_691
+  - first:
+      213: 7732453606782674725
+    second: city houses 2_692
+  - first:
+      213: -2123216685732989432
+    second: city houses 2_693
+  - first:
+      213: -2508338682351812329
+    second: city houses 2_694
+  - first:
+      213: 3303345327300331677
+    second: city houses 2_695
+  - first:
+      213: 5709960664840392137
+    second: city houses 2_696
+  - first:
+      213: -8680034023761560669
+    second: city houses 2_697
+  - first:
+      213: 3260061927857837038
+    second: city houses 2_698
+  - first:
+      213: -4368146073620114299
+    second: city houses 2_699
+  - first:
+      213: 5911528105013541007
+    second: city houses 2_700
+  - first:
+      213: 9123723649797576604
+    second: city houses 2_701
+  - first:
+      213: 2315618931009000675
+    second: city houses 2_702
+  - first:
+      213: -2825134040489717060
+    second: city houses 2_703
+  - first:
+      213: -7865844694608528690
+    second: city houses 2_704
+  - first:
+      213: 7754430943561422417
+    second: city houses 2_705
+  - first:
+      213: -6077652121907908516
+    second: city houses 2_706
+  - first:
+      213: -2396586882483547392
+    second: city houses 2_707
+  - first:
+      213: -4006472168284046226
+    second: city houses 2_708
+  - first:
+      213: -3479243695711939677
+    second: city houses 2_709
+  - first:
+      213: -4428660904351326119
+    second: city houses 2_710
+  - first:
+      213: 8257570697862452954
+    second: city houses 2_711
+  - first:
+      213: -1033673534953382261
+    second: city houses 2_712
+  - first:
+      213: -3174447697030013739
+    second: city houses 2_713
+  - first:
+      213: -2789809976674365786
+    second: city houses 2_714
+  - first:
+      213: -7850102843036064996
+    second: city houses 2_715
+  - first:
+      213: -8745692264696455697
+    second: city houses 2_716
+  - first:
+      213: -4749366607364548296
+    second: city houses 2_717
+  - first:
+      213: -8212714667772695718
+    second: city houses 2_718
+  - first:
+      213: 2615095032665918636
+    second: city houses 2_719
+  - first:
+      213: -5494712235285662820
+    second: city houses 2_720
+  - first:
+      213: 3355374293669592012
+    second: city houses 2_721
+  - first:
+      213: -1037965069609844612
+    second: city houses 2_722
+  - first:
+      213: 6719690546763491002
+    second: city houses 2_723
+  - first:
+      213: -1066594234467983832
+    second: city houses 2_724
+  - first:
+      213: 852463156397159087
+    second: city houses 2_725
+  - first:
+      213: -171219330927464100
+    second: city houses 2_726
+  - first:
+      213: -1827768561715592504
+    second: city houses 2_727
+  - first:
+      213: -8462147839819029727
+    second: city houses 2_728
+  - first:
+      213: 5665419210368073348
+    second: city houses 2_729
+  - first:
+      213: -4726851034501341629
+    second: city houses 2_730
+  - first:
+      213: 4410721060442330756
+    second: city houses 2_731
+  - first:
+      213: -170025260480413605
+    second: city houses 2_732
+  - first:
+      213: 880443711093475044
+    second: city houses 2_733
+  - first:
+      213: -1252706183822669258
+    second: city houses 2_734
+  - first:
+      213: -4207111072179134346
+    second: city houses 2_735
+  - first:
+      213: -8706755816270373999
+    second: city houses 2_736
+  - first:
+      213: -7104314373076100621
+    second: city houses 2_737
+  - first:
+      213: -5660231571097856075
+    second: city houses 2_738
+  - first:
+      213: 7250983847485285683
+    second: city houses 2_739
+  - first:
+      213: 7296118176184333989
+    second: city houses 2_740
+  - first:
+      213: -8754315849190933312
+    second: city houses 2_741
+  - first:
+      213: -7855421890289755177
+    second: city houses 2_742
+  - first:
+      213: -1718818165459089412
+    second: city houses 2_743
+  - first:
+      213: -1122947810630042956
+    second: city houses 2_744
+  - first:
+      213: 2174745237184158650
+    second: city houses 2_745
+  - first:
+      213: 726857723011670287
+    second: city houses 2_746
+  - first:
+      213: 6784015223591571792
+    second: city houses 2_747
+  - first:
+      213: 8626858811623956412
+    second: city houses 2_748
+  - first:
+      213: 1822634753288417598
+    second: city houses 2_749
+  - first:
+      213: 4282918341688438943
+    second: city houses 2_750
+  - first:
+      213: -5672964933996857166
+    second: city houses 2_751
+  - first:
+      213: -5834605458318858015
+    second: city houses 2_752
+  - first:
+      213: -3388163887544057875
+    second: city houses 2_753
+  - first:
+      213: 473640830643572118
+    second: city houses 2_754
+  - first:
+      213: -4320886969680803251
+    second: city houses 2_755
+  - first:
+      213: 7861587397960307223
+    second: city houses 2_756
+  - first:
+      213: -5827128316876570513
+    second: city houses 2_757
+  - first:
+      213: -2132559973405838840
+    second: city houses 2_758
+  - first:
+      213: -4491135502372976547
+    second: city houses 2_759
+  - first:
+      213: 9142150704073778144
+    second: city houses 2_760
+  - first:
+      213: -2927826489369740995
+    second: city houses 2_761
+  - first:
+      213: 6741130791415818221
+    second: city houses 2_762
+  - first:
+      213: 4711554438506216206
+    second: city houses 2_763
+  - first:
+      213: 4502523452849303121
+    second: city houses 2_764
+  - first:
+      213: 1691636388753907094
+    second: city houses 2_765
+  - first:
+      213: -5088225592344716471
+    second: city houses 2_766
+  - first:
+      213: -1692135176325355558
+    second: city houses 2_767
+  - first:
+      213: 2770860552136555419
+    second: city houses 2_768
+  - first:
+      213: 4479933351038022401
+    second: city houses 2_769
+  - first:
+      213: -7979501661996798427
+    second: city houses 2_770
+  - first:
+      213: 5433660291069723689
+    second: city houses 2_771
+  - first:
+      213: -3381969961403896330
+    second: city houses 2_772
+  - first:
+      213: 7284383038444390652
+    second: city houses 2_773
+  - first:
+      213: 6880282729192241279
+    second: city houses 2_774
+  - first:
+      213: 7550758163960149901
+    second: city houses 2_775
+  - first:
+      213: -7535699195423277523
+    second: city houses 2_776
+  - first:
+      213: -3867292105196413515
+    second: city houses 2_777
+  - first:
+      213: 7920347854001989713
+    second: city houses 2_778
+  - first:
+      213: -7085377126656497750
+    second: city houses 2_779
+  - first:
+      213: -1836029828612265463
+    second: city houses 2_780
+  - first:
+      213: 3428200479869052784
+    second: city houses 2_781
+  - first:
+      213: -6787666570869736423
+    second: city houses 2_782
+  - first:
+      213: 3079593355669375767
+    second: city houses 2_783
+  - first:
+      213: -7844881994725197665
+    second: city houses 2_784
+  - first:
+      213: -8910682705571851006
+    second: city houses 2_785
+  - first:
+      213: -4331022042995591248
+    second: city houses 2_786
+  - first:
+      213: -7698461750495353050
+    second: city houses 2_787
+  - first:
+      213: -8415277023709468982
+    second: city houses 2_788
+  - first:
+      213: 1736921611565154225
+    second: city houses 2_789
+  - first:
+      213: 1818919354144444562
+    second: city houses 2_790
+  - first:
+      213: -7746461655223688014
+    second: city houses 2_791
+  - first:
+      213: 8309156487466577622
+    second: city houses 2_792
+  - first:
+      213: -2763890798592572989
+    second: city houses 2_793
+  - first:
+      213: 2507288568567756286
+    second: city houses 2_794
+  - first:
+      213: -8904181346663813493
+    second: city houses 2_795
+  - first:
+      213: -4037570501986741417
+    second: city houses 2_796
+  - first:
+      213: 7343541396527500610
+    second: city houses 2_797
+  - first:
+      213: 3311046695178100953
+    second: city houses 2_798
+  - first:
+      213: -4349916841411261752
+    second: city houses 2_799
+  - first:
+      213: -4956270663341774264
+    second: city houses 2_800
+  - first:
+      213: -3686905785407768393
+    second: city houses 2_801
+  - first:
+      213: -2991993415476438522
+    second: city houses 2_802
+  - first:
+      213: -21837422172327938
+    second: city houses 2_803
+  - first:
+      213: 925218160209404580
+    second: city houses 2_804
+  - first:
+      213: -378020935858400456
+    second: city houses 2_805
+  - first:
+      213: -7255712309932088800
+    second: city houses 2_806
+  - first:
+      213: -2727841618960922854
+    second: city houses 2_807
+  - first:
+      213: -353153921751813832
+    second: city houses 2_808
+  - first:
+      213: 8063714600673655921
+    second: city houses 2_809
+  - first:
+      213: 2316577442800897513
+    second: city houses 2_810
+  - first:
+      213: 1837373488538041198
+    second: city houses 2_811
+  - first:
+      213: -8858237020809735529
+    second: city houses 2_812
+  - first:
+      213: 4843545239738142059
+    second: city houses 2_813
+  - first:
+      213: 5852028828460945554
+    second: city houses 2_814
+  - first:
+      213: -4489327059994188261
+    second: city houses 2_815
+  - first:
+      213: 1969740204049743734
+    second: city houses 2_816
+  - first:
+      213: -1296541166849945446
+    second: city houses 2_817
+  - first:
+      213: 7688270683749909798
+    second: city houses 2_818
+  - first:
+      213: -2107682066128299994
+    second: city houses 2_819
+  - first:
+      213: 7777666004028239002
+    second: city houses 2_820
+  - first:
+      213: 1274128013112537250
+    second: city houses 2_821
+  - first:
+      213: -3370435618464139801
+    second: city houses 2_822
+  - first:
+      213: -2360255766244220895
+    second: city houses 2_823
+  - first:
+      213: -8715404375459869979
+    second: city houses 2_824
+  - first:
+      213: -6500756766662730409
+    second: city houses 2_825
+  - first:
+      213: 8177953542753070571
+    second: city houses 2_826
+  - first:
+      213: -4046573383784346896
+    second: city houses 2_827
+  - first:
+      213: -2634936568720084891
+    second: city houses 2_828
+  - first:
+      213: 2692345923111758531
+    second: city houses 2_829
+  - first:
+      213: -7438772054563256378
+    second: city houses 2_830
+  - first:
+      213: 2387888159445071175
+    second: city houses 2_831
+  - first:
+      213: -1327107723650476663
+    second: city houses 2_832
+  - first:
+      213: -34082231166415778
+    second: city houses 2_833
+  - first:
+      213: -43992766130990541
+    second: city houses 2_834
+  - first:
+      213: -5398659267806360259
+    second: city houses 2_835
+  - first:
+      213: -755575267461348910
+    second: city houses 2_836
+  - first:
+      213: 7715361124119252834
+    second: city houses 2_837
+  - first:
+      213: 5903681594394844981
+    second: city houses 2_838
+  - first:
+      213: -386566748531322645
+    second: city houses 2_839
+  - first:
+      213: -5615042193691585907
+    second: city houses 2_840
+  - first:
+      213: -494181405136560066
+    second: city houses 2_841
+  - first:
+      213: -7750943603996786390
+    second: city houses 2_842
+  - first:
+      213: 7980297875136398234
+    second: city houses 2_843
+  - first:
+      213: -4983337821591085079
+    second: city houses 2_844
+  - first:
+      213: 8343202141834966375
+    second: city houses 2_845
+  - first:
+      213: 1193045340917134028
+    second: city houses 2_846
+  - first:
+      213: 352241928155193863
+    second: city houses 2_847
+  - first:
+      213: 1660412482663589049
+    second: city houses 2_848
+  - first:
+      213: 1628956672409991435
+    second: city houses 2_849
+  - first:
+      213: -1921469670065206961
+    second: city houses 2_850
+  - first:
+      213: -6364609429284837884
+    second: city houses 2_851
+  - first:
+      213: -2818587528549928459
+    second: city houses 2_852
+  - first:
+      213: -3559479943514633556
+    second: city houses 2_853
+  - first:
+      213: -2549875825553225096
+    second: city houses 2_854
+  - first:
+      213: -2246733123347836282
+    second: city houses 2_855
+  - first:
+      213: 4014999322644268344
+    second: city houses 2_856
+  - first:
+      213: 7215185418748930435
+    second: city houses 2_857
+  - first:
+      213: 6748550167845355325
+    second: city houses 2_858
+  - first:
+      213: -2628859392785375156
+    second: city houses 2_859
+  - first:
+      213: 1841427837374193747
+    second: city houses 2_860
+  - first:
+      213: 6421314215071985998
+    second: city houses 2_861
+  - first:
+      213: 5491434077970200288
+    second: city houses 2_862
+  - first:
+      213: -2806029047745689120
+    second: city houses 2_863
+  - first:
+      213: 6766441423705814489
+    second: city houses 2_864
+  - first:
+      213: -2671762700976238673
+    second: city houses 2_865
+  - first:
+      213: 1973950191043764289
+    second: city houses 2_866
+  - first:
+      213: -8780624795209761886
+    second: city houses 2_867
+  - first:
+      213: 5194396957454836096
+    second: city houses 2_868
+  - first:
+      213: 6002049155974934688
+    second: city houses 2_869
+  - first:
+      213: 5006237200085709766
+    second: city houses 2_870
+  - first:
+      213: 5944250586519828295
+    second: city houses 2_871
+  - first:
+      213: 5531567265609119776
+    second: city houses 2_872
+  - first:
+      213: 823838745983414972
+    second: city houses 2_873
+  - first:
+      213: -1407467121680227611
+    second: city houses 2_874
+  - first:
+      213: -1806158706310405863
+    second: city houses 2_875
+  - first:
+      213: 4200695568737397213
+    second: city houses 2_876
+  - first:
+      213: 6569473572729792983
+    second: city houses 2_877
+  - first:
+      213: -6583974079753990480
+    second: city houses 2_878
+  - first:
+      213: 3489233126208016645
+    second: city houses 2_879
+  - first:
+      213: -3374274569932551542
+    second: city houses 2_880
+  - first:
+      213: 7216186820053436495
+    second: city houses 2_881
+  - first:
+      213: 3833238623185341088
+    second: city houses 2_882
+  - first:
+      213: -3640083336277482468
+    second: city houses 2_883
+  - first:
+      213: 7347983906780399719
+    second: city houses 2_884
+  - first:
+      213: -1162036406036776052
+    second: city houses 2_885
+  - first:
+      213: -3724690789408398384
+    second: city houses 2_886
+  - first:
+      213: 7891180753982364391
+    second: city houses 2_887
+  - first:
+      213: 1261903128024629547
+    second: city houses 2_888
+  - first:
+      213: 326191026096378945
+    second: city houses 2_889
+  - first:
+      213: 1408062488217342691
+    second: city houses 2_890
+  - first:
+      213: -5165567134104347371
+    second: city houses 2_891
+  - first:
+      213: -8188305459527292729
+    second: city houses 2_892
+  - first:
+      213: -8209985305346959218
+    second: city houses 2_893
+  - first:
+      213: 2568813167029874909
+    second: city houses 2_894
+  - first:
+      213: -651029508537970562
+    second: city houses 2_895
+  - first:
+      213: -5975477487623870885
+    second: city houses 2_896
+  - first:
+      213: 7201046592734893071
+    second: city houses 2_897
+  - first:
+      213: -7556410706982533301
+    second: city houses 2_898
+  - first:
+      213: 1278082112549843391
+    second: city houses 2_899
+  - first:
+      213: -8710766353572889573
+    second: city houses 2_900
+  - first:
+      213: -7619801183309211059
+    second: city houses 2_901
+  - first:
+      213: -8814137398533999129
+    second: city houses 2_902
+  - first:
+      213: 1888847957897667182
+    second: city houses 2_903
+  - first:
+      213: -8957182326133843717
+    second: city houses 2_904
+  - first:
+      213: -4724799319937096704
+    second: city houses 2_905
+  - first:
+      213: -9178794117077246697
+    second: city houses 2_906
+  - first:
+      213: 4903853907193771474
+    second: city houses 2_907
+  - first:
+      213: -3256577767243322885
+    second: city houses 2_908
+  - first:
+      213: 3854977585040358306
+    second: city houses 2_909
+  - first:
+      213: 1555743260262318645
+    second: city houses 2_910
+  - first:
+      213: -3264186505930130578
+    second: city houses 2_911
+  - first:
+      213: -702123030348934744
+    second: city houses 2_912
+  - first:
+      213: 662347307678310941
+    second: city houses 2_913
+  - first:
+      213: 1297391206992337503
+    second: city houses 2_914
+  - first:
+      213: -4615461569757281997
+    second: city houses 2_915
+  - first:
+      213: 8194701058189850680
+    second: city houses 2_916
+  - first:
+      213: 5243188211444600389
+    second: city houses 2_917
+  - first:
+      213: -6894030553765840750
+    second: city houses 2_918
+  - first:
+      213: 664410255962605585
+    second: city houses 2_919
+  - first:
+      213: 8348426180482244831
+    second: city houses 2_920
+  - first:
+      213: 6286596535944913673
+    second: city houses 2_921
+  - first:
+      213: 5509840572989077832
+    second: city houses 2_922
+  - first:
+      213: 6387746978133763560
+    second: city houses 2_923
+  - first:
+      213: 2336051081187393605
+    second: city houses 2_924
+  - first:
+      213: -1073902365069214439
+    second: city houses 2_925
+  - first:
+      213: 2673881467590447658
+    second: city houses 2_926
+  - first:
+      213: 4659935088054952041
+    second: city houses 2_927
+  - first:
+      213: -5582467645479242067
+    second: city houses 2_928
+  - first:
+      213: 4007150626207526919
+    second: city houses 2_929
+  - first:
+      213: -6847817563833433425
+    second: city houses 2_930
+  - first:
+      213: 4232021551653286237
+    second: city houses 2_931
+  - first:
+      213: -3262496457078344410
+    second: city houses 2_932
+  - first:
+      213: 8537781479777078496
+    second: city houses 2_933
+  - first:
+      213: 7424677263595278730
+    second: city houses 2_934
+  - first:
+      213: 950187234285318562
+    second: city houses 2_935
+  - first:
+      213: -7491372983169832196
+    second: city houses 2_936
+  - first:
+      213: 8685884609591708220
+    second: city houses 2_937
+  - first:
+      213: -6853554700888079772
+    second: city houses 2_938
+  - first:
+      213: 8158902939687005916
+    second: city houses 2_939
+  - first:
+      213: -8925256138095207120
+    second: city houses 2_940
+  - first:
+      213: -1257435708703862690
+    second: city houses 2_941
+  - first:
+      213: 856500504409305564
+    second: city houses 2_942
+  - first:
+      213: 3147019596085644842
+    second: city houses 2_943
+  - first:
+      213: 5490538942949814186
+    second: city houses 2_944
+  - first:
+      213: -8695860144941937486
+    second: city houses 2_945
+  - first:
+      213: -7571861657287426865
+    second: city houses 2_946
+  - first:
+      213: -5998555667480648973
+    second: city houses 2_947
+  - first:
+      213: -8515297991803037629
+    second: city houses 2_948
+  - first:
+      213: 6582205996572409355
+    second: city houses 2_949
+  - first:
+      213: -2534627908689377360
+    second: city houses 2_950
+  - first:
+      213: -6407091230873110968
+    second: city houses 2_951
+  - first:
+      213: -177055831984586567
+    second: city houses 2_952
+  - first:
+      213: -137270197226095160
+    second: city houses 2_953
+  - first:
+      213: 39747741840777589
+    second: city houses 2_954
+  - first:
+      213: 8955879490877731604
+    second: city houses 2_955
+  - first:
+      213: -5301191507944861653
+    second: city houses 2_956
+  - first:
+      213: -3445412899876015040
+    second: city houses 2_957
+  - first:
+      213: -8626191743633744101
+    second: city houses 2_958
+  - first:
+      213: -9179336643554372961
+    second: city houses 2_959
+  - first:
+      213: 2506773006652802818
+    second: city houses 2_960
+  - first:
+      213: 5676059531367805685
+    second: city houses 2_961
+  - first:
+      213: -6246536880389907441
+    second: city houses 2_962
+  - first:
+      213: -1851668682065626265
+    second: city houses 2_963
+  - first:
+      213: -6914072362166009981
+    second: city houses 2_964
+  - first:
+      213: 2029642885797634089
+    second: city houses 2_965
+  - first:
+      213: -1415829816964060202
+    second: city houses 2_966
+  - first:
+      213: 1597255339142437006
+    second: city houses 2_967
+  - first:
+      213: 190518279549203369
+    second: city houses 2_968
+  - first:
+      213: -4453159686655488834
+    second: city houses 2_969
+  - first:
+      213: 3376935641360879116
+    second: city houses 2_970
+  - first:
+      213: 4458250850919683005
+    second: city houses 2_971
+  - first:
+      213: 3313249231098333648
+    second: city houses 2_972
+  - first:
+      213: 8014191210979644397
+    second: city houses 2_973
+  - first:
+      213: -6458622872739267527
+    second: city houses 2_974
+  - first:
+      213: -6303114239064946102
+    second: city houses 2_975
+  - first:
+      213: -931843600991838619
+    second: city houses 2_976
+  - first:
+      213: 7204765775907464855
+    second: city houses 2_977
+  - first:
+      213: 2937843383371098108
+    second: city houses 2_978
+  - first:
+      213: 1146431842748289049
+    second: city houses 2_979
+  - first:
+      213: -1175447729302872853
+    second: city houses 2_980
+  - first:
+      213: -6972494081475367448
+    second: city houses 2_981
+  - first:
+      213: -4066885771285062899
+    second: city houses 2_982
+  - first:
+      213: -6584908626804274882
+    second: city houses 2_983
+  - first:
+      213: -8531157154913215846
+    second: city houses 2_984
+  - first:
+      213: -3592375739488921095
+    second: city houses 2_985
+  - first:
+      213: -8369841225624652671
+    second: city houses 2_986
+  - first:
+      213: 930189674405782774
+    second: city houses 2_987
+  - first:
+      213: 4787309948820547402
+    second: city houses 2_988
+  - first:
+      213: -89653532588156646
+    second: city houses 2_989
+  - first:
+      213: -207456287479704309
+    second: city houses 2_990
+  - first:
+      213: 8244694735109637348
+    second: city houses 2_991
+  - first:
+      213: 6991448608533429981
+    second: city houses 2_992
+  - first:
+      213: -7017308038532994044
+    second: city houses 2_993
+  - first:
+      213: -1731252758739774096
+    second: city houses 2_994
+  - first:
+      213: 7192162435208376771
+    second: city houses 2_0
+  - first:
+      213: -1848445568843396373
+    second: city houses 2_1
+  - first:
+      213: 3218793941235633996
+    second: city houses 2_2
+  - first:
+      213: 6439095399584227222
+    second: city houses 2_3
+  - first:
+      213: -7835540516782926924
+    second: city houses 2_4
+  - first:
+      213: -167032541404906202
+    second: city houses 2_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: city houses 2_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 273
+        width: 119
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1f08d01a1bfc360800000000000000
+      internalID: 7192162435208376771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city houses 2_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 275
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac1727c800956e0800000000000000
+      internalID: -1848445568843396373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city houses 2_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 276
+        width: 120
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f878029047bac20800000000000000
+      internalID: 3218793941235633996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city houses 2_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 45
+        width: 145
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd11f66234c5950800000000000000
+      internalID: 6439095399584227222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city houses 2_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 45
+        width: 145
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b319f91a61924390800000000000000
+      internalID: -7835540516782926924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: city houses 2_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 45
+        width: 144
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d31afd9c49eadf0800000000000000
+      internalID: -167032541404906202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

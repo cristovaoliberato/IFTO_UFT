@@ -1,0 +1,2578 @@
+fileFormatVersion: 2
+guid: e2a4d1947a3d40346bef0c37f2bb148d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1139776273153248559
+    second: Suburban_Sprites1_0
+  - first:
+      213: 5371662774830284095
+    second: Suburban_Sprites1_1
+  - first:
+      213: 4658214137682745876
+    second: Suburban_Sprites1_2
+  - first:
+      213: -1452301675595203680
+    second: Suburban_Sprites1_3
+  - first:
+      213: -9191594139537835508
+    second: Suburban_Sprites1_4
+  - first:
+      213: -9168006996591650992
+    second: Suburban_Sprites1_5
+  - first:
+      213: 692174455079994320
+    second: Suburban_Sprites1_6
+  - first:
+      213: 7848418224855690836
+    second: Suburban_Sprites1_7
+  - first:
+      213: -3620482483416025913
+    second: Suburban_Sprites1_8
+  - first:
+      213: 347790140349317297
+    second: Suburban_Sprites1_9
+  - first:
+      213: -8912450552006285807
+    second: Suburban_Sprites1_10
+  - first:
+      213: 1870305678986194065
+    second: Suburban_Sprites1_11
+  - first:
+      213: -8764456144614580738
+    second: Suburban_Sprites1_12
+  - first:
+      213: -1176834012680769886
+    second: Suburban_Sprites1_13
+  - first:
+      213: -2791139091328040970
+    second: Suburban_Sprites1_14
+  - first:
+      213: 971362515632532517
+    second: Suburban_Sprites1_15
+  - first:
+      213: 2241439170817819158
+    second: Suburban_Sprites1_16
+  - first:
+      213: -2195653711988034797
+    second: Suburban_Sprites1_17
+  - first:
+      213: -7204480311850069601
+    second: Suburban_Sprites1_18
+  - first:
+      213: -6201790460874488131
+    second: Suburban_Sprites1_19
+  - first:
+      213: -2003280942241643363
+    second: Suburban_Sprites1_20
+  - first:
+      213: 218037308629169050
+    second: Suburban_Sprites1_21
+  - first:
+      213: 7384320231766529865
+    second: Suburban_Sprites1_22
+  - first:
+      213: -6568369041161916166
+    second: Suburban_Sprites1_23
+  - first:
+      213: -4773656279820882733
+    second: Suburban_Sprites1_24
+  - first:
+      213: -3883459465888018201
+    second: Suburban_Sprites1_25
+  - first:
+      213: -5965290266754534596
+    second: Suburban_Sprites1_26
+  - first:
+      213: 6077167028946256677
+    second: Suburban_Sprites1_27
+  - first:
+      213: -3115041025041576617
+    second: Suburban_Sprites1_28
+  - first:
+      213: -6989788971873171795
+    second: Suburban_Sprites1_29
+  - first:
+      213: -6388218257279528374
+    second: Suburban_Sprites1_30
+  - first:
+      213: -1821855709110461685
+    second: Suburban_Sprites1_31
+  - first:
+      213: -2171638729578387198
+    second: Suburban_Sprites1_32
+  - first:
+      213: 7399731273301929157
+    second: Suburban_Sprites1_33
+  - first:
+      213: 3363132992347324116
+    second: Suburban_Sprites1_34
+  - first:
+      213: -2906206669547373584
+    second: Suburban_Sprites1_35
+  - first:
+      213: 6141533470692117613
+    second: Suburban_Sprites1_36
+  - first:
+      213: -4654488123948101791
+    second: Suburban_Sprites1_37
+  - first:
+      213: -830514729988700159
+    second: Suburban_Sprites1_38
+  - first:
+      213: 358727123779288506
+    second: Suburban_Sprites1_39
+  - first:
+      213: 6222759195457936256
+    second: Suburban_Sprites1_40
+  - first:
+      213: 6117757829537340161
+    second: Suburban_Sprites1_41
+  - first:
+      213: -266356862007872998
+    second: Suburban_Sprites1_42
+  - first:
+      213: -7940101367787505143
+    second: Suburban_Sprites1_43
+  - first:
+      213: -8865241297928935501
+    second: Suburban_Sprites1_44
+  - first:
+      213: -3300746778991491955
+    second: Suburban_Sprites1_45
+  - first:
+      213: -216924638000219980
+    second: Suburban_Sprites1_46
+  - first:
+      213: -8024709527210684895
+    second: Suburban_Sprites1_47
+  - first:
+      213: 2009761558109689932
+    second: Suburban_Sprites1_48
+  - first:
+      213: 9013870958978655033
+    second: Suburban_Sprites1_49
+  - first:
+      213: 1698977675134984298
+    second: Suburban_Sprites1_50
+  - first:
+      213: -3852174566825953905
+    second: Suburban_Sprites1_51
+  - first:
+      213: 3538159378297828782
+    second: Suburban_Sprites1_52
+  - first:
+      213: 2277583283566927529
+    second: Suburban_Sprites1_53
+  - first:
+      213: -3681551843865662179
+    second: Suburban_Sprites1_54
+  - first:
+      213: 4657061248029277232
+    second: Suburban_Sprites1_55
+  - first:
+      213: -5466149015492368008
+    second: Suburban_Sprites1_56
+  - first:
+      213: -4606860564544749527
+    second: Suburban_Sprites1_57
+  - first:
+      213: -2983674336275099269
+    second: Suburban_Sprites1_58
+  - first:
+      213: -2170241515432656144
+    second: Suburban_Sprites1_59
+  - first:
+      213: 5753691652716136114
+    second: Suburban_Sprites1_60
+  - first:
+      213: 8267758040055675525
+    second: Suburban_Sprites1_61
+  - first:
+      213: 863834495342638966
+    second: Suburban_Sprites1_62
+  - first:
+      213: -531191626590396247
+    second: Suburban_Sprites1_63
+  - first:
+      213: -558825121632708904
+    second: Suburban_Sprites1_64
+  - first:
+      213: -7749955381653991057
+    second: Suburban_Sprites1_65
+  - first:
+      213: 1329834016525204366
+    second: Suburban_Sprites1_66
+  - first:
+      213: 8582777210635918390
+    second: Suburban_Sprites1_67
+  - first:
+      213: 4644789387003605351
+    second: Suburban_Sprites1_68
+  - first:
+      213: -4151240190582459869
+    second: Suburban_Sprites1_69
+  - first:
+      213: 8223575493746798707
+    second: Suburban_Sprites1_70
+  - first:
+      213: 4724176828878231414
+    second: Suburban_Sprites1_71
+  - first:
+      213: -8667434954518811190
+    second: Suburban_Sprites1_72
+  - first:
+      213: -907523970394677914
+    second: Suburban_Sprites1_73
+  - first:
+      213: 1449732382812928068
+    second: Suburban_Sprites1_74
+  - first:
+      213: -6600736784130195273
+    second: Suburban_Sprites1_75
+  - first:
+      213: 6637100679434760366
+    second: Suburban_Sprites1_76
+  - first:
+      213: 422135004121256604
+    second: Suburban_Sprites1_77
+  - first:
+      213: 2592701703165779161
+    second: Suburban_Sprites1_78
+  - first:
+      213: -6813374570821123483
+    second: Suburban_Sprites1_79
+  - first:
+      213: -8510001977646974411
+    second: Suburban_Sprites1_80
+  - first:
+      213: 5767134100277727973
+    second: Suburban_Sprites1_81
+  - first:
+      213: -1068913827355279919
+    second: Suburban_Sprites1_82
+  - first:
+      213: 2084422794956200244
+    second: Suburban_Sprites1_83
+  - first:
+      213: -4863712142902844339
+    second: Suburban_Sprites1_84
+  - first:
+      213: 8518527046229822878
+    second: Suburban_Sprites1_85
+  - first:
+      213: -5203757083594518148
+    second: Suburban_Sprites1_86
+  - first:
+      213: 3043016385553272180
+    second: Suburban_Sprites1_87
+  - first:
+      213: -8220994716120777191
+    second: Suburban_Sprites1_88
+  - first:
+      213: 4300925210473555410
+    second: Suburban_Sprites1_89
+  - first:
+      213: -6219690762303592651
+    second: Suburban_Sprites1_90
+  - first:
+      213: 3522885366860920343
+    second: Suburban_Sprites1_91
+  - first:
+      213: 1413302985671314857
+    second: Suburban_Sprites1_92
+  - first:
+      213: 7045899708174033453
+    second: Suburban_Sprites1_93
+  - first:
+      213: -4320529686847756830
+    second: Suburban_Sprites1_94
+  - first:
+      213: 1128693614353129494
+    second: Suburban_Sprites1_95
+  - first:
+      213: -188170265467723960
+    second: Suburban_Sprites1_96
+  - first:
+      213: -3811698651526151561
+    second: Suburban_Sprites1_97
+  - first:
+      213: 5184541454502687206
+    second: Suburban_Sprites1_98
+  - first:
+      213: -8904085049362779425
+    second: Suburban_Sprites1_99
+  - first:
+      213: 6406819174638033889
+    second: Suburban_Sprites1_100
+  - first:
+      213: 8635525832827554761
+    second: Suburban_Sprites1_101
+  - first:
+      213: -5926128715379051994
+    second: Suburban_Sprites1_102
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Suburban_Sprites1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1976
+        width: 724
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23843b483be20f0800000000000000
+      internalID: -1139776273153248559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1974
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db2fa55dafb8a40800000000000000
+      internalID: 5371662774830284095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1976
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a5844f31d45a040800000000000000
+      internalID: 4658214137682745876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_3
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1707
+        width: 11
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7177125368dbe0800000000000000
+      internalID: -1452301675595203680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_4
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1673
+        width: 13
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af84944d5e07080800000000000000
+      internalID: -9191594139537835508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_5
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1923
+        width: 110
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057dbd5f532b4c080800000000000000
+      internalID: -9168006996591650992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_6
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1923
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d384a5eff81b9900800000000000000
+      internalID: 692174455079994320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1916
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea935face2bec60800000000000000
+      internalID: 7848418224855690836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_8
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1935
+        width: 151
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b67c0d5671cdc0800000000000000
+      internalID: -3620482483416025913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1694
+        width: 458
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b087eb3a4993d400800000000000000
+      internalID: 347790140349317297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1905
+        width: 436
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166e61717d905480800000000000000
+      internalID: -8912450552006285807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1832
+        width: 423
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2e511b19a4f910800000000000000
+      internalID: 1870305678986194065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_12
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1790
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd12c292956e5680800000000000000
+      internalID: -8764456144614580738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_13
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1788
+        width: 34
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea09a53bb0bafe0800000000000000
+      internalID: -1176834012680769886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_14
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1789
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7fa6d8c1e349d0800000000000000
+      internalID: -2791139091328040970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1810
+        width: 177
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c286cbf09fa7d00800000000000000
+      internalID: 971362515632532517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_16
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1760
+        width: 441
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6120e3adc013b1f10800000000000000
+      internalID: 2241439170817819158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_17
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1665
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137f2ff4987781e0800000000000000
+      internalID: -2195653711988034797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_18
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1661
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9191ecc35b840c90800000000000000
+      internalID: -7204480311850069601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1664
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68b203f60dee9a0800000000000000
+      internalID: -6201790460874488131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_20
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1695
+        width: 430
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94806cc89ae234e0800000000000000
+      internalID: -2003280942241643363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_21
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1676
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93bf98e6cf960300800000000000000
+      internalID: 218037308629169050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1610
+        width: 685
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479c2280206a7660800000000000000
+      internalID: 7384320231766529865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_23
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1631
+        width: 430
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0fed3682778d4a0800000000000000
+      internalID: -6568369041161916166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_24
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1531
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca679c7e090cdb0800000000000000
+      internalID: -4773656279820882733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_25
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1529
+        width: 31
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0dd14f03e2b1ac0800000000000000
+      internalID: -3883459465888018201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_26
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1531
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33300c9b18073da0800000000000000
+      internalID: -5965290266754534596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_27
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1472
+        width: 658
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523ce01f63f665450800000000000000
+      internalID: 6077167028946256677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_28
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1535
+        width: 202
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc0a121b625c4d0800000000000000
+      internalID: -3115041025041576617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1380
+        width: 338
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68e8ca6f74ffe90800000000000000
+      internalID: -6989788971873171795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1382
+        width: 337
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42503b575d7857a0800000000000000
+      internalID: -6388218257279528374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_31
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1338
+        width: 757
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b147a92e777b6e0800000000000000
+      internalID: -1821855709110461685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1250
+        width: 341
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209effec41accd1e0800000000000000
+      internalID: -2171638729578387198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_33
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1250
+        width: 342
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cca28a336021b660800000000000000
+      internalID: 7399731273301929157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1203
+        width: 805
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de324d43af3cae20800000000000000
+      internalID: 3363132992347324116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 137
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf1c98e641ba7d0800000000000000
+      internalID: -2906206669547373584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 75
+        height: 1148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c86c0072c1b3550800000000000000
+      internalID: 6141533470692117613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 997
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8cc836bfe76fb0800000000000000
+      internalID: -4654488123948101791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_38
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 996
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1084b4ad04b6974f0800000000000000
+      internalID: -830514729988700159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_39
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1000
+        width: 278
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd79202b647af400800000000000000
+      internalID: 358727123779288506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_40
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 996
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd018c48eab5650800000000000000
+      internalID: 6222759195457936256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_41
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 994
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b107b2554a6e450800000000000000
+      internalID: 6117757829537340161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 809
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12788068d5bd4cf0800000000000000
+      internalID: -266356862007872998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_43
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 812
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abe6cdfd71fc190800000000000000
+      internalID: -7940101367787505143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_44
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 808
+        width: 278
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a2d4720658f480800000000000000
+      internalID: -8865241297928935501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_45
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 802
+        width: 144
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8482b8ea446132d0800000000000000
+      internalID: -3300746778991491955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_46
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 800
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b877f8e0345dfcf0800000000000000
+      internalID: -216924638000219980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 588
+        width: 215
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0ae4a33182a090800000000000000
+      internalID: -8024709527210684895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_48
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 621
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c481d5a2d7b14eb10800000000000000
+      internalID: 2009761558109689932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_49
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 621
+        width: 409
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e12131e3b71d70800000000000000
+      internalID: 9013870958978655033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_50
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 623
+        width: 278
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606db7a13bf39710800000000000000
+      internalID: 1698977675134984298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_51
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 625
+        width: 412
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f857b8324a35a8ac0800000000000000
+      internalID: -3852174566825953905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 307
+        width: 140
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b82665311a1130800000000000000
+      internalID: 3538159378297828782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_53
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 306
+        width: 141
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aedf53ede99b9f10800000000000000
+      internalID: 2277583283566927529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_54
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 433
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1de33c8a1088ecc0800000000000000
+      internalID: -3681551843865662179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_55
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 436
+        width: 408
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb50ae78431a040800000000000000
+      internalID: 4657061248029277232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_56
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 435
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e93a6e665424b0800000000000000
+      internalID: -5466149015492368008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_57
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 439
+        width: 409
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200e8889b42110c0800000000000000
+      internalID: -4606860564544749527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_58
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 249
+        width: 278
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b719fd4dffbd796d0800000000000000
+      internalID: -2983674336275099269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_59
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 254
+        width: 409
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c4d317d0c1e1e0800000000000000
+      internalID: -2170241515432656144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_60
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 254
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b68643e21839df40800000000000000
+      internalID: 5753691652716136114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_61
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 255
+        width: 268
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af56a022afcb270800000000000000
+      internalID: 8267758040055675525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_62
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 248
+        width: 17
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67770af85e4fcfb00800000000000000
+      internalID: 863834495342638966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_63
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 247
+        width: 16
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ea6da704d0a8f0800000000000000
+      internalID: -531191626590396247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_64
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 248
+        width: 172
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6948d3387ae38f0800000000000000
+      internalID: -558825121632708904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 107
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61136334a0a27490800000000000000
+      internalID: -7749955381653991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_66
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 56
+        width: 15
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b37350ef4847210800000000000000
+      internalID: 1329834016525204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_67
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 56
+        width: 15
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c954a46662c1770800000000000000
+      internalID: 8582777210635918390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 56
+        width: 14
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761badc965b957040800000000000000
+      internalID: 4644789387003605351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_69
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 56
+        width: 15
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322f1077a05d366c0800000000000000
+      internalID: -4151240190582459869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_70
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 56
+        width: 15
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b2685752002270800000000000000
+      internalID: 8223575493746798707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_71
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 55
+        width: 14
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771b6dcbc5af8140800000000000000
+      internalID: 4724176828878231414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_72
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 55
+        width: 15
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2a16b4d517b780800000000000000
+      internalID: -8667434954518811190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_73
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 55
+        width: 15
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d1977d1c3d763f0800000000000000
+      internalID: -907523970394677914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_74
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 60
+        width: 14
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448f1f0dbeb7e1410800000000000000
+      internalID: 1449732382812928068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_75
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 59
+        width: 15
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c016fdd87564a0800000000000000
+      internalID: -6600736784130195273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_76
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 146
+        width: 15
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0763037e7bb1c50800000000000000
+      internalID: 6637100679434760366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_77
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 150
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d7e7bc89bbd500800000000000000
+      internalID: 422135004121256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_78
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 148
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1fb956702bf320800000000000000
+      internalID: 2592701703165779161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_79
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 149
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56207883de70271a0800000000000000
+      internalID: -6813374570821123483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_80
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 56
+        width: 14
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53afa7c0a4666e980800000000000000
+      internalID: -8510001977646974411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_81
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 57
+        width: 15
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2981b98e9f80050800000000000000
+      internalID: 5767134100277727973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 55
+        width: 15
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3cf099847a21f0800000000000000
+      internalID: -1068913827355279919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_83
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 148
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439571ffc7b5dec10800000000000000
+      internalID: 2084422794956200244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_84
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 149
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a588339f908cb0800000000000000
+      internalID: -4863712142902844339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_85
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 68
+        width: 15
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d06182733e73670800000000000000
+      internalID: 8518527046229822878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_86
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 71
+        width: 145
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c711deec08a88c7b0800000000000000
+      internalID: -5203757083594518148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_87
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 73
+        width: 269
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8892b747fa3a20800000000000000
+      internalID: 3043016385553272180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_88
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 64
+        width: 139
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ef145ccd829ed80800000000000000
+      internalID: -8220994716120777191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_89
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 56
+        width: 145
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d56ccf01b4ffab30800000000000000
+      internalID: 4300925210473555410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_90
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 58
+        width: 136
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ad1c74383fa9a0800000000000000
+      internalID: -6219690762303592651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_91
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 58
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ba2c739dc3e030800000000000000
+      internalID: 3522885366860920343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_92
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 56
+        width: 134
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad00f4d39f0d9310800000000000000
+      internalID: 1413302985671314857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_93
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 73
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22edbc247018c160800000000000000
+      internalID: 7045899708174033453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_94
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 286
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5e8e514256a04c0800000000000000
+      internalID: -4320529686847756830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_95
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 10
+        width: 270
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61025c7bcdce9af00800000000000000
+      internalID: 1128693614353129494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_96
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 11
+        width: 145
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f5189f32c736df0800000000000000
+      internalID: -188170265467723960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_97
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 11
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c2fc85402a1bc0800000000000000
+      internalID: -3811698651526151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_98
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 11
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17be6ebf033f740800000000000000
+      internalID: 5184541454502687206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_99
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 11
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27ddec2d55e6480800000000000000
+      internalID: -8904085049362779425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_100
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 4
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1674381899e850800000000000000
+      internalID: 6406819174638033889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_101
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 4
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4562fdfc87d770800000000000000
+      internalID: 8635525832827554761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suburban_Sprites1_102
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 18
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622f692d45922cda0800000000000000
+      internalID: -5926128715379051994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
